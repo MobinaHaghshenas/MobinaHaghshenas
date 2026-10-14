@@ -1,148 +1,75 @@
-<div align="center">
+Animated dark data s
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" width="100%" alt="Business analysis illustration in a lavender and indigo banner with Mobina Haghshenas nameplate" />
+cience banner with analytics dashboards, a model-performance chart, and a feature-space network  Email  LinkedIn  GitHub repositoriesProfile view counter---## ◈ A little about meI'm an Industrial Engineering graduate interested in using data a
 
 
-<p>
-  <a href="mailto:mobinahaghshenas73@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-20B2AA?style=for-the-badge&logo=gmail&logoColor=061522" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mobina-haghshenas/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-102A43?style=for-the-badge&logo=linkedin&logoColor=20E3B2" alt="LinkedIn" /></a>
-  <a href="https://github.com/MobinaHaghshenas?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-050816?style=for-the-badge&logo=github&logoColor=20E3B2" alt="GitHub repositories" /></a>
-</p>
+nd 
+computational methods to solve practical problems.I enjoy working across machine learning, optimization, simulation, and data analytics. Lately, my research interests lean tow
+ard explainable AI and deep learning for medical image analysis.WHAT I LIKE WORKING ON- 01 — Finding patterns in data- 02 — Building and evaluating predictive models- 03 — Improving systems through optim
+ization and simulation- 04 — Making AI results easier to understand ### Tools & methodsPython, Git, GitHub and SQL ## ◈ Selected workProjects in AI, research, operations research, and simulation.### 🧬 AI & Mac
+hine
 
-<img src="https://komarev.com/ghpvc/?username=MobinaHaghshenas&style=for-the-badge&color=087E8B&label=PROFILE+SIGNALS" alt="Profile view counter" />
+ Learning**Spectral Clustering · Risk Analysis**Unsupervised learning to gr
 
-</div>
+oup ne
 
----
+w-p
 
-## ◈ A little about me
+roduct-development ris
 
-<table>
-<tr>
-<td width="60%" valign="top">
+ks, wit
+h cl
+uster selection and internal 
 
-I'm an **Industrial Engineering** graduate interested in using data and computational methods to solve practical problems.
+validation.**Machine Learning Portfolio**Classification, 
 
-I enjoy working across **machine learning, optimization, simulation, and data analytics**. Lately, my research interests lean toward explainable AI and deep learning for medical image analysis.
+regression, anomaly detection, and customer segmentation across applied projects.**AI Algorithms**Python implementation
 
-<sub>WHAT I LIKE WORKING ON</sub>
+s featuring Minimax with Alpha–Be
 
-- 01 — Finding patterns in data
-- 02 — Building and evaluating predictive models
-- 03 — Improving systems through optimization and simulation
-- 04 — Making AI results easier to understand
+ta Pruning, Genetic Algorithms,
+ and Simulated Annealing. ### 🏥 Systems & Decis
+ion Science**[Ambulance Location Optimization](https://githu
+b.com/MobinaHaghshenas/ambulance-station-loca
 
-</td>
-<td width="40%" valign="top">
+tion-
+optimization)**A mixed-intege
 
-### Tools & methods
+r model for emergen
 
-<img src="https://skillicons.dev/icons?i=python,git,github,sql&theme=dark" alt="Python, Git, GitHub and SQL" />
+cy station locations, ambulance allocation, and service coverage.**[MRI Department Simulation](https://github.c
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-123D56?style=flat-square" />
-<img src="https://img.shields.io/badge/Optimization-123D56?style=flat-square" />
-<img src="https://img.shields.io/badge/Simulation-123D56?style=flat-square" />
-<img src="https://img.shields.io/badge/Power%20BI-123D56?style=flat-square" />
-<img src="https://img.shields.io/badge/AnyLogic-123D56?style=flat-square" />
-<img src="https://img.shields.io/badge/NetworkX%20%2F%20Gephi-123D56?style=flat-square" />
-</p>
+om/
+MobinaHaghshenas/MRI-department-simulation)**Discrete-event simulation of patient flow
+, reporting, resource use, and personnel planning.**[Nutrigenomics Network Analy
+sis](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics
+)**Co-authorship networks explored through centrality, network measures, and c
+ommunity detection. ### 📊 Business Analytics**[Business Analytics Portfolio
+ →](https://github.com/MobinaHaghshenas/business-analytics)**Business process modeling, re
+lati
 
-</td>
-</tr>
-</table>
+onal 
+datab
+ases, SQ
 
-## ◈ Selected work
+L, Power BI, finan
 
-<sub>Projects in AI, research, operations research, and simulation.</sub>
+cial-ratio analysis, and multi-criteria decision-making. ## ◈ Research & 
 
-<table>
-<tr>
-<td width="50%" valign="top">
+technic
+al i
+nterests| AI & Healthcare | D
 
-### 🧬 AI & Machine Learning
+ata & Modeling | Systems & D
 
-**[Spectral Clustering · Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)**
+ecisions :---:|:---:|:---: Explainable AI · Deep learning · Medical imaging | Predictive analytics · Machine
 
-Unsupervised learning to group new-product-development risks, with cluster selection and internal validation.
+ learning · Network analysis | Mathematical optimization · Simulation · Resource allocation |## ◈ GitHub acti
 
-**[Machine Learning Portfolio](https://github.com/MobinaHaghshenas/machine-learning-projects)**
+vity  GitHub profile statistics  Most used languages based on public repositoriesGitHub contrib
 
-Classification, regression, anomaly detection, and customer segmentation across applied projects.
+ution activity graph## ◈ Find me hereFor conversations about **data science, healthcare AI, optim
 
-**[AI Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)**
+ization, or analytics**:mobinahaghshenas73@gmail.comMinimal dark animated footer with flowi
 
-Python implementations featuring Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Systems & Decision Science
-
-**[Ambulance Location Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)**
-
-A mixed-integer model for emergency station locations, ambulance allocation, and service coverage.
-
-**[MRI Department Simulation](https://github.com/MobinaHaghshenas/MRI-department-simulation)**
-
-Discrete-event simulation of patient flow, reporting, resource use, and personnel planning.
-
-**[Nutrigenomics Network Analysis](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)**
-
-Co-authorship networks explored through centrality, network measures, and community detection.
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 📊 Business Analytics
-
-**[Business Analytics Portfolio →](https://github.com/MobinaHaghshenas/business-analytics)**
-
-Business process modeling, relational databases, SQL, Power BI, financial-ratio analysis, and multi-criteria decision-making.
-
-</td>
-</tr>
-</table>
-
-## ◈ Research & technical interests
-
-<div align="center">
-
-| AI & Healthcare | Data & Modeling | Systems & Decisions |
-|:---:|:---:|:---:|
-| Explainable AI · Deep learning · Medical imaging | Predictive analytics · Machine learning · Network analysis | Mathematical optimization · Simulation · Resource allocation |
-
-</div>
-
-## ◈ GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/MobinaHaghshenas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MobinaHaghshenas&show_icons=true&hide_border=true&bg_color=050816&title_color=20E3B2&icon_color=20E3B2&text_color=E9FFFB&rank_icon=github" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/MobinaHaghshenas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobinaHaghshenas&layout=compact&hide_border=true&bg_color=050816&title_color=20E3B2&text_color=E9FFFB" alt="Most used languages based on public repositories" />
-</a>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MobinaHaghshenas&bg_color=050816&color=E9FFFB&line=20E3B2&point=FFFFFF&area=true&area_color=102A43&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-## ◈ Find me here
-
-<div align="center">
-
-For conversations about **data science, healthcare AI, optimization, or analytics**:
-
-<a href="mailto:mobinahaghshenas73@gmail.com">mobinahaghshenas73@gmail.com</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" width="100%" alt="Minimal lavender and indigo footer matching the business analysis banner" />
-
-</div>
+ng data lines and a thank-you message
