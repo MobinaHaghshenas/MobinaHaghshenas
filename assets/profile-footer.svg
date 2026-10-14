@@ -1,38 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title desc">
-<title id="title">Connected systems — thank you</title>
-<desc id="desc">A matching pale mint footer with interlocking gears and a completed puzzle-piece motif, closing with a message about connected systems.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+<title id="title">Thanks for visiting</title>
+<desc id="desc">A quiet dark closing banner with flowing fine lines and a small animated data point, complementing the main analytics artwork without repeating its illustration.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fcfffd"/><stop offset=".6" stop-color="#effaf7"/><stop offset="1" stop-color="#eef5ff"/></linearGradient>
- <linearGradient id="accent"><stop stop-color="#18a58f"/><stop offset="1" stop-color="#5a91df"/></linearGradient>
- <path id="gear" d="M-8-27H8L10-19Q17-16 20-10L28-12L34 1L27 7Q28 14 23 19L27 26L14 33L7 27Q0 29-7 26L-13 32L-25 23L-21 15Q-25 9-24 2L-31-3L-24-17L-15-14Q-12-19-8-27Z"/>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".6" stop-color="#102641"/><stop offset="1" stop-color="#172c48"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#52f0ce" stop-opacity=".05"/><stop offset=".5" stop-color="#52f0ce" stop-opacity=".85"/><stop offset="1" stop-color="#9b9cff" stop-opacity=".25"/></linearGradient>
+ <clipPath id="clip"><rect width="1200" height="112" rx="18"/></clipPath>
 </defs>
-<g>
- <rect width="1200" height="142" rx="20" fill="url(#bg)"/>
- <g transform="translate(103 71)">
-  <g fill="#fff" stroke="#168f83" stroke-width="2.4"><use href="#gear" transform="scale(.78)"/></g>
-  <circle r="9" fill="#d9f5ed" stroke="#168f83" stroke-width="2"/>
-  <g transform="translate(47 26) scale(.57)" fill="#e1f1ff" stroke="#4f91c3" stroke-width="3"><use href="#gear" transform="rotate(18)"/></g>
-  <circle cx="47" cy="26" r="6" fill="#fff" stroke="#4f91c3" stroke-width="2"/>
-  <g fill="none" stroke="#8ccfc3" stroke-width="1.5"><path d="M-42-36L-60-47M-42 35L-58 43M67-28L83-39"/></g>
-  <circle cx="-60" cy="-47" r="3" fill="#18a58f"/><circle cx="-58" cy="43" r="3" fill="#18a58f"/><circle cx="83" cy="-39" r="3" fill="#5a91df"/>
- </g>
- <path d="M240 70H405" stroke="#9bd6cb" stroke-width="1.5" stroke-dasharray="3 6"/>
- <circle cx="240" cy="70" r="4" fill="#18a58f"/><circle cx="405" cy="70" r="4" fill="#5a91df"/>
- <g transform="translate(449 46)" stroke="#fff" stroke-width="2.5" stroke-linejoin="round">
-  <path d="M0 0H20C17-8 22-14 29-14S41-8 38 0H58V20C66 17 72 22 72 29S66 41 58 38V58H38C41 50 35 44 29 44S17 50 20 58H0V38C-8 41-14 35-14 29S-8 17 0 20Z" fill="#168f83">
-   <animate attributeName="opacity" values="1;.72;1" dur="3.4s" repeatCount="indefinite"/>
-  </path>
-  <path d="M82 10L96 10L96 24M91 19L96 24L101 19" fill="none" stroke="#4f91c3" stroke-width="2"/>
- </g>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="112" fill="url(#bg)"/>
+ <path d="M0 85C125 22 210 106 336 58S548 25 665 68 842 102 950 48 1090 27 1200 59" fill="none" stroke="url(#line)" stroke-width="1.5"/>
+ <path d="M0 97C125 34 210 118 336 70S548 37 665 80 842 114 950 60 1090 39 1200 71" fill="none" stroke="#7d9dca" stroke-opacity=".22" stroke-width="1"/>
+ <path d="M0 73C125 10 210 94 336 46S548 13 665 56 842 90 950 36 1090 15 1200 47" fill="none" stroke="#7d9dca" stroke-opacity=".16" stroke-width="1"/>
+ <circle r="4" fill="#52f0ce"><animateMotion dur="8s" repeatCount="indefinite" path="M0 73C125 10 210 94 336 46S548 13 665 56 842 90 950 36 1090 15 1200 47"/></circle>
  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <text x="600" y="62" font-size="11" font-weight="700" letter-spacing="2.4" fill="#43877f">DATA · MODELS · SYSTEMS</text>
-  <text x="600" y="96" font-size="27" font-weight="800" letter-spacing="1.2" fill="#174754">BETTER TOGETHER<tspan fill="#18a58f">.</tspan></text>
-  <path d="M900 71H1040" stroke="#9bd6cb" stroke-width="1.5" stroke-dasharray="3 6"/>
-  <circle cx="900" cy="71" r="4" fill="#18a58f"/><circle cx="1040" cy="71" r="4" fill="#5a91df"/>
-  <g transform="translate(1090 71)" fill="none" stroke="url(#accent)" stroke-width="2">
-   <circle r="23"/><circle r="14"/><path d="M-8 0H8M0-8V8"/>
-  </g>
-  <text x="600" y="116" font-size="10" letter-spacing="1.2" fill="#6b9295">THANK YOU FOR STOPPING BY</text>
+  <text x="55" y="43" font-size="10" font-weight="700" letter-spacing="2.5" fill="#74a1bd">IDEAS BECOME IMPACT</text>
+  <text x="55" y="73" font-size="23" font-weight="800" letter-spacing=".5" fill="#f4f8ff">Thanks for exploring my work<tspan fill="#52f0ce">.</tspan></text>
+  <text x="1144" y="45" text-anchor="end" font-family="Consolas,monospace" font-size="10" letter-spacing="1.1" fill="#8da9c6">DATA → INSIGHT → ACTION</text>
  </g>
- <rect x=".75" y=".75" width="1198.5" height="140.5" rx="20" fill="none" stroke="#c0e4dc" stroke-width="1.5"/>
+ <rect x=".75" y=".75" width="1198.5" height="110.5" rx="18" fill="none" stroke="#476581" stroke-opacity=".65" stroke-width="1.5"/>
 </g></svg>
