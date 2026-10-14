@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" width="100%" alt="Animated dark data science banner with analytics dashboards, a model-performance chart, and a feature-space network" />
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" width="100%" alt="Business analysis illustration in a lavender and indigo banner with Mobina Haghshenas nameplate" />
 
 
 <p>
@@ -143,6 +143,6 @@ For conversations about **data science, healthcare AI, optimization, or analytic
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" width="100%" alt="Minimal dark animated footer with flowing data lines and a thank-you message" />
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" width="100%" alt="Minimal lavender and indigo footer matching the business analysis banner" />
 
 </div>
