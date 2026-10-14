@@ -1,52 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-<title id="title">Mobina Haghshenas — kinetic data banner</title>
-<desc id="desc">Bright editorial cream and aqua banner with large kinetic typography, bold animated gradient waves, rotating geometric rings, and an animated data pulse.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Mobina Haghshenas — data science and healthcare AI</title>
+<desc id="desc">Minimal light editorial banner featuring an animated machine-learning decision surface, flowing data streams, a pulsing medical-imaging scan, and integrated animated typing-style introduction.</desc>
 <defs>
- <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6fff9"/><stop offset=".52" stop-color="#e4fbf7"/><stop offset="1" stop-color="#d8f2ff"/></linearGradient>
- <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00bfa6"/><stop offset=".48" stop-color="#31c7ed"/><stop offset="1" stop-color="#7b61ff"/></linearGradient>
- <linearGradient id="wave2"><stop stop-color="#8af3d2"/><stop offset=".5" stop-color="#31c7ed"/><stop offset="1" stop-color="#00bfa6"/></linearGradient>
- <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="12" flood-color="#0c8c92" flood-opacity=".15"/></filter>
- <clipPath id="clip"><rect width="1200" height="340" rx="22"/></clipPath>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfffd"/><stop offset=".55" stop-color="#eafaf7"/><stop offset="1" stop-color="#e9f4ff"/></linearGradient>
+ <linearGradient id="ink"><stop stop-color="#0b5964"/><stop offset="1" stop-color="#173b55"/></linearGradient>
+ <linearGradient id="signal"><stop stop-color="#00b99f"/><stop offset=".52" stop-color="#2fbce7"/><stop offset="1" stop-color="#7773f5"/></linearGradient>
+ <linearGradient id="scan"><stop stop-color="#00b99f" stop-opacity="0"/><stop offset=".5" stop-color="#00b99f" stop-opacity=".95"/><stop offset="1" stop-color="#00b99f" stop-opacity="0"/></linearGradient>
+ <clipPath id="clip"><rect width="1200" height="390" rx="22"/></clipPath>
+ <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
 </defs>
 <g clip-path="url(#clip)">
- <rect width="1200" height="340" fill="url(#paper)"/>
- <!-- oversized kinetic color forms -->
- <path d="M735 -90C850 -5 865 66 1000 44S1170 -20 1250 45L1250 250C1130 207 1060 294 942 260S795 188 735 235Z" fill="url(#wave)" opacity=".95">
-  <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M735 -90C850 -5 865 66 1000 44S1170 -20 1250 45L1250 250C1130 207 1060 294 942 260S795 188 735 235Z;M710 -65C835 42 900 12 1010 70S1150 18 1250 18L1250 275C1125 220 1065 252 950 282S795 145 710 255Z;M735 -90C850 -5 865 66 1000 44S1170 -20 1250 45L1250 250C1130 207 1060 294 942 260S795 188 735 235Z"/>
- </path>
- <path d="M800 340C900 220 980 300 1050 220S1150 145 1225 180L1225 340Z" fill="#b8fff0" opacity=".45">
-  <animate attributeName="d" dur="6.5s" repeatCount="indefinite" values="M800 340C900 220 980 300 1050 220S1150 145 1225 180L1225 340Z;M770 340C900 250 960 255 1060 250S1140 185 1225 135L1225 340Z;M800 340C900 220 980 300 1050 220S1150 145 1225 180L1225 340Z"/>
- </path>
- <!-- bright moving ribbon -->
- <path d="M700 270C820 120 900 315 1030 170S1150 125 1230 85" fill="none" stroke="#e9fff8" stroke-width="4" stroke-linecap="round" opacity=".85" stroke-dasharray="18 14">
-  <animate attributeName="stroke-dashoffset" from="0" to="-128" dur="3s" repeatCount="indefinite"/>
- </path>
- <!-- bold orbiting rings -->
- <g transform="translate(1000 160)" fill="none">
-  <circle r="83" stroke="#ffffff" stroke-opacity=".68" stroke-width="2" stroke-dasharray="28 11">
-   <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
-  </circle>
-  <ellipse rx="125" ry="45" transform="rotate(-32)" stroke="#f2fffb" stroke-width="2.5" stroke-opacity=".85">
-   <animateTransform attributeName="transform" type="rotate" from="-32" to="328" dur="9s" repeatCount="indefinite"/>
-  </ellipse>
-  <circle r="14" fill="#f7fffc" stroke="none"><animate attributeName="r" values="11;17;11" dur="1.7s" repeatCount="indefinite"/></circle>
-  <circle r="5" fill="#00bfa6" stroke="none"/>
+ <rect width="1200" height="390" fill="url(#paper)"/>
+ <!-- Minimal data landscape: decision boundaries instead of decorative orbit -->
+ <path d="M720 0H1200V390H830C790 318 855 275 820 217S735 129 720 0Z" fill="#d9f8f0" opacity=".7"/>
+ <path d="M790 0C860 78 826 128 900 181S1010 255 955 390" fill="none" stroke="#a7e9dc" stroke-width="1.5"/>
+ <path d="M830 0C900 76 866 130 940 184S1050 260 995 390" fill="none" stroke="#a7e9dc" stroke-width="1.5"/>
+ <path d="M870 0C940 74 906 132 980 186S1090 265 1035 390" fill="none" stroke="#a7e9dc" stroke-width="1.5"/>
+ <!-- Optimization path over a contour map -->
+ <g fill="none" stroke="#8acfc9" stroke-width="1.2" opacity=".65">
+  <path d="M780 40C880 50 880 110 960 105S1070 60 1150 90"/>
+  <path d="M760 80C860 90 880 150 960 145S1080 100 1170 130"/>
+  <path d="M790 120C870 130 900 190 980 185S1090 140 1190 170"/>
+  <path d="M820 160C900 170 920 230 1000 225S1110 180 1200 210"/>
+  <path d="M840 205C920 215 940 270 1020 265S1130 220 1200 250"/>
+  <path d="M860 250C940 260 960 310 1040 305S1150 260 1200 290"/>
  </g>
- <!-- orbiting dot -->
- <circle r="9" fill="#fff"><animateMotion dur="4.8s" repeatCount="indefinite" path="M1000 77 A83 83 0 1 1 999.9 77"/></circle>
- <!-- typography -->
+ <!-- Machine-learning feature points -->
+ <g fill="#29bfa8" opacity=".75">
+  <circle cx="824" cy="74" r="3"/><circle cx="881" cy="112" r="3"/><circle cx="918" cy="73" r="4"/><circle cx="1008" cy="123" r="3"/><circle cx="1068" cy="84" r="3"/><circle cx="1120" cy="148" r="4"/><circle cx="859" cy="189" r="3"/><circle cx="945" cy="213" r="4"/><circle cx="1028" cy="181" r="3"/><circle cx="1092" cy="245" r="4"/><circle cx="1160" cy="212" r="3"/><circle cx="911" cy="295" r="3"/><circle cx="1002" cy="327" r="3"/><circle cx="1115" cy="310" r="3"/>
+ </g>
+ <!-- The learned decision path animates through observations -->
+ <path d="M790 310C850 300 850 245 900 242S935 280 980 240 1030 150 1080 163 1110 105 1175 72" fill="none" stroke="#fff" stroke-width="10" opacity=".8" stroke-linecap="round"/>
+ <path d="M790 310C850 300 850 245 900 242S935 280 980 240 1030 150 1080 163 1110 105 1175 72" fill="none" stroke="url(#signal)" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="18 11">
+  <animate attributeName="stroke-dashoffset" from="0" to="-145" dur="3.5s" repeatCount="indefinite"/>
+ </path>
+ <circle r="7" fill="#00b99f" stroke="#fff" stroke-width="3"><animateMotion dur="7s" repeatCount="indefinite" path="M790 310C850 300 850 245 900 242S935 280 980 240 1030 150 1080 163 1110 105 1175 72"/></circle>
+ <!-- Medical imaging motif: framed scan, scanning bar -->
+ <g transform="translate(1064 272)">
+  <rect x="-54" y="-39" width="108" height="78" rx="8" fill="#f9fffd" fill-opacity=".72" stroke="#6acdbf" stroke-width="1.5"/>
+  <circle r="24" fill="#bdeee5" opacity=".55"/>
+  <ellipse rx="17" ry="23" fill="none" stroke="#36b8a7" stroke-width="1.5"/>
+  <ellipse rx="9" ry="15" fill="none" stroke="#36b8a7" stroke-width="1.5"/>
+  <path d="M-30 0H30M0 -29V29" stroke="#36b8a7" stroke-opacity=".55" stroke-width="1"/>
+  <rect x="-42" y="-27" width="84" height="4" rx="2" fill="url(#scan)"><animate attributeName="y" values="-27;23;-27" dur="3s" repeatCount="indefinite"/></rect>
+  <circle r="3" fill="#00b99f"><animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/></circle>
+ </g>
+ <!-- Typography and integrated typing-style sequence -->
  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <rect x="66" y="46" width="226" height="28" rx="14" fill="#ffffff" stroke="#bcece4"/>
-  <circle cx="83" cy="60" r="4" fill="#00b99f"><animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
-  <text x="96" y="64" font-size="10" font-weight="700" letter-spacing="2" fill="#197d78">DATA · AI · OPTIMIZATION</text>
-  <text x="62" y="145" font-size="49" font-weight="800" letter-spacing="-1.5" fill="#103b4b">MOBINA</text>
-  <text x="62" y="200" font-size="49" font-weight="800" letter-spacing="-1.6" fill="#103b4b">HAGHSHENAS<tspan fill="#00bfa6">.</tspan></text>
-  <rect x="66" y="222" width="3" height="34" rx="1.5" fill="#00bfa6"/>
-  <text x="82" y="237" font-size="16" font-weight="600" fill="#326273">Turning complex data into</text>
-  <text x="82" y="257" font-size="16" font-weight="600" fill="#326273">clearer decisions and smarter systems.</text>
-  <g font-size="10" font-weight="700" letter-spacing="1.4" fill="#247c7a"><text x="67" y="300">HEALTHCARE AI</text><circle cx="174" cy="296" r="2" fill="#00bfa6"/><text x="188" y="300">ANALYTICS</text><circle cx="272" cy="296" r="2" fill="#00bfa6"/><text x="286" y="300">SYSTEMS THINKING</text></g>
+  <rect x="66" y="42" width="235" height="28" rx="14" fill="#fff" stroke="#b9e8df"/>
+  <circle cx="83" cy="56" r="4" fill="#00b99f"><animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <text x="97" y="60" font-size="10" font-weight="700" letter-spacing="1.8" fill="#287d78">DATA SCIENCE  /  HEALTHCARE AI</text>
+  <text x="62" y="123" font-size="48" font-weight="800" letter-spacing="-1.5" fill="url(#ink)">MOBINA</text>
+  <text x="62" y="175" font-size="48" font-weight="800" letter-spacing="-1.7" fill="url(#ink)">HAGHSHENAS<tspan fill="#00b99f">.</tspan></text>
+  <text x="66" y="208" font-size="15" font-weight="600" fill="#426875">Data-driven thinking. Intelligent systems.</text>
+  <text x="66" y="228" font-size="15" font-weight="600" fill="#426875">Better decisions.</text>
+  <path d="M66 247H510" stroke="#b6e4de"/>
+  <circle cx="70" cy="272" r="3" fill="#00b99f"/>
+  <text x="83" y="277" font-size="13" font-family="JetBrains Mono,Consolas,monospace" fill="#197f7b"> <tspan>Turning data into decisions</tspan><animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;.22;.5;.78;1" dur="11.2s" repeatCount="indefinite"/></text>
+  <text x="83" y="277" font-size="13" font-family="JetBrains Mono,Consolas,monospace" fill="#197f7b" opacity="0">Exploring AI that can be explained<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.22;.24;.48;1" dur="11.2s" repeatCount="indefinite"/></text>
+  <text x="83" y="277" font-size="13" font-family="JetBrains Mono,Consolas,monospace" fill="#197f7b" opacity="0">Modeling complex systems &amp; optimizing them<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.49;.51;.73;1" dur="11.2s" repeatCount="indefinite"/></text>
+  <text x="83" y="277" font-size="13" font-family="JetBrains Mono,Consolas,monospace" fill="#197f7b" opacity="0">Interested in healthcare AI &amp; medical imaging<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.75;.77;1" dur="11.2s" repeatCount="indefinite"/></text>
+  <rect x="83" y="287" width="3" height="17" rx="1.5" fill="#00b99f"><animate attributeName="x" values="83;270;83" dur="4s" repeatCount="indefinite"/></rect>
+  <g font-size="10" font-weight="700" letter-spacing="1.5" fill="#287d78"><text x="66" y="330">HEALTHCARE AI</text><circle cx="178" cy="326" r="2" fill="#00b99f"/><text x="192" y="330">OPTIMIZATION</text><circle cx="306" cy="326" r="2" fill="#00b99f"/><text x="320" y="330">ANALYTICS</text></g>
  </g>
- <!-- moving tiny glints -->
- <g fill="#fff"><circle cx="858" cy="77" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="1134" cy="240" r="4"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle><circle cx="1090" cy="62" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle></g>
- <rect x=".75" y=".75" width="1198.5" height="338.5" rx="22" fill="none" stroke="#b2e8e0" stroke-width="1.5"/>
+ <rect x=".75" y=".75" width="1198.5" height="388.5" rx="22" fill="none" stroke="#b8e7df" stroke-width="1.5"/>
 </g></svg>
