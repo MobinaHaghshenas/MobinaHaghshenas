@@ -1,67 +1,92 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">Mobina Haghshenas — data science and healthcare AI</title>
-<desc id="desc">Minimal light editorial banner featuring an animated machine-learning decision surface, flowing data streams, a pulsing medical-imaging scan, and integrated animated typing-style introduction.</desc>
+<title id="title">Mobina Haghshenas — data science, optimization and healthcare AI</title>
+<desc id="desc">A light, minimal technical illustration: interlocking gears represent optimization and connected systems, while a final puzzle piece completes a machine-learning model beside a medical cross. The introduction is integrated into the banner.</desc>
 <defs>
- <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfffd"/><stop offset=".55" stop-color="#eafaf7"/><stop offset="1" stop-color="#e9f4ff"/></linearGradient>
- <linearGradient id="ink"><stop stop-color="#0b5964"/><stop offset="1" stop-color="#173b55"/></linearGradient>
- <linearGradient id="signal"><stop stop-color="#00b99f"/><stop offset=".52" stop-color="#2fbce7"/><stop offset="1" stop-color="#7773f5"/></linearGradient>
- <linearGradient id="scan"><stop stop-color="#00b99f" stop-opacity="0"/><stop offset=".5" stop-color="#00b99f" stop-opacity=".95"/><stop offset="1" stop-color="#00b99f" stop-opacity="0"/></linearGradient>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fcfffd"/><stop offset=".58" stop-color="#effaf7"/><stop offset="1" stop-color="#eef5ff"/></linearGradient>
+ <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#087f79"/><stop offset="1" stop-color="#23b9a4"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4b78a8"/><stop offset="1" stop-color="#8ab9e8"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#20b99f"/><stop offset="1" stop-color="#5a91df"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#174754" flood-opacity=".10"/></filter>
  <clipPath id="clip"><rect width="1200" height="390" rx="22"/></clipPath>
- <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
+ <!-- A clean eight-tooth gear outline, reused at two scales -->
+ <path id="gear" d="M-12-42 L12-42 L15-30 Q23-27 28-23 L39-29 L51-8 L40 0 Q41 8 38 15 L49 24 L37 44 L24 38 Q17 43 10 44 L7 57 L-17 57 L-20 43 Q-28 40 -33 34 L-45 39 L-56 19 L-45 10 Q-47 2 -44-6 L-55-15 L-43-35 L-30-29 Q-23-34 -16-35 Z" transform="scale(.72)"/>
+ <g id="puzzle">
+  <path d="M0 0H40C36-14 43-23 54-23S72-14 68 0H108V39C122 35 131 43 131 54S122 73 108 68V108H69C73 94 64 85 53 85S34 94 39 108H0V69C-14 73-23 64-23 53S-14 34 0 39Z"/>
+ </g>
 </defs>
 <g clip-path="url(#clip)">
  <rect width="1200" height="390" fill="url(#paper)"/>
- <!-- Minimal data landscape: decision boundaries instead of decorative orbit -->
- <path d="M720 0H1200V390H830C790 318 855 275 820 217S735 129 720 0Z" fill="#d9f8f0" opacity=".7"/>
- <path d="M790 0C860 78 826 128 900 181S1010 255 955 390" fill="none" stroke="#a7e9dc" stroke-width="1.5"/>
- <path d="M830 0C900 76 866 130 940 184S1050 260 995 390" fill="none" stroke="#a7e9dc" stroke-width="1.5"/>
- <path d="M870 0C940 74 906 132 980 186S1090 265 1035 390" fill="none" stroke="#a7e9dc" stroke-width="1.5"/>
- <!-- Optimization path over a contour map -->
- <g fill="none" stroke="#8acfc9" stroke-width="1.2" opacity=".65">
-  <path d="M780 40C880 50 880 110 960 105S1070 60 1150 90"/>
-  <path d="M760 80C860 90 880 150 960 145S1080 100 1170 130"/>
-  <path d="M790 120C870 130 900 190 980 185S1090 140 1190 170"/>
-  <path d="M820 160C900 170 920 230 1000 225S1110 180 1200 210"/>
-  <path d="M840 205C920 215 940 270 1020 265S1130 220 1200 250"/>
-  <path d="M860 250C940 260 960 310 1040 305S1150 260 1200 290"/>
+ <circle cx="232" cy="190" r="145" fill="#e0f5ef"/>
+ <circle cx="232" cy="190" r="122" fill="none" stroke="#b9e6dc" stroke-dasharray="3 8" stroke-width="1.5"/>
+ <circle cx="232" cy="190" r="99" fill="none" stroke="#c5e8e2" stroke-width="1.2"/>
+ <!-- System connections: nodes link the mechanism to data and healthcare -->
+ <g fill="none" stroke="#9bcfc8" stroke-width="1.6">
+  <path d="M95 104L147 130L180 95M280 83L318 119L350 100M100 268L145 245L177 286M292 278L326 247L357 271"/>
+  <path d="M147 130L155 176M318 119L300 160M145 245L174 220M326 247L300 216"/>
  </g>
- <!-- Machine-learning feature points -->
- <g fill="#29bfa8" opacity=".75">
-  <circle cx="824" cy="74" r="3"/><circle cx="881" cy="112" r="3"/><circle cx="918" cy="73" r="4"/><circle cx="1008" cy="123" r="3"/><circle cx="1068" cy="84" r="3"/><circle cx="1120" cy="148" r="4"/><circle cx="859" cy="189" r="3"/><circle cx="945" cy="213" r="4"/><circle cx="1028" cy="181" r="3"/><circle cx="1092" cy="245" r="4"/><circle cx="1160" cy="212" r="3"/><circle cx="911" cy="295" r="3"/><circle cx="1002" cy="327" r="3"/><circle cx="1115" cy="310" r="3"/>
+ <g fill="#fff" stroke="#67bfb1" stroke-width="2">
+  <circle cx="95" cy="104" r="6"/><circle cx="180" cy="95" r="5"/><circle cx="350" cy="100" r="6"/><circle cx="100" cy="268" r="6"/><circle cx="177" cy="286" r="5"/><circle cx="357" cy="271" r="6"/>
  </g>
- <!-- The learned decision path animates through observations -->
- <path d="M790 310C850 300 850 245 900 242S935 280 980 240 1030 150 1080 163 1110 105 1175 72" fill="none" stroke="#fff" stroke-width="10" opacity=".8" stroke-linecap="round"/>
- <path d="M790 310C850 300 850 245 900 242S935 280 980 240 1030 150 1080 163 1110 105 1175 72" fill="none" stroke="url(#signal)" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="18 11">
-  <animate attributeName="stroke-dashoffset" from="0" to="-145" dur="3.5s" repeatCount="indefinite"/>
- </path>
- <circle r="7" fill="#00b99f" stroke="#fff" stroke-width="3"><animateMotion dur="7s" repeatCount="indefinite" path="M790 310C850 300 850 245 900 242S935 280 980 240 1030 150 1080 163 1110 105 1175 72"/></circle>
- <!-- Medical imaging motif: framed scan, scanning bar -->
- <g transform="translate(1064 272)">
-  <rect x="-54" y="-39" width="108" height="78" rx="8" fill="#f9fffd" fill-opacity=".72" stroke="#6acdbf" stroke-width="1.5"/>
-  <circle r="24" fill="#bdeee5" opacity=".55"/>
-  <ellipse rx="17" ry="23" fill="none" stroke="#36b8a7" stroke-width="1.5"/>
-  <ellipse rx="9" ry="15" fill="none" stroke="#36b8a7" stroke-width="1.5"/>
-  <path d="M-30 0H30M0 -29V29" stroke="#36b8a7" stroke-opacity=".55" stroke-width="1"/>
-  <rect x="-42" y="-27" width="84" height="4" rx="2" fill="url(#scan)"><animate attributeName="y" values="-27;23;-27" dur="3s" repeatCount="indefinite"/></rect>
-  <circle r="3" fill="#00b99f"><animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/></circle>
+ <!-- Interlocking gears: operations research, optimization, and systems -->
+ <g transform="translate(187 160)" filter="url(#shadow)">
+  <g fill="#fff" stroke="#128c83" stroke-width="5" stroke-linejoin="round">
+   <use href="#gear" transform="rotate(0) scale(.91)"/>
+   <use href="#gear" transform="translate(0 0) scale(.91)" opacity="0"/>
+  </g>
+  <circle r="24" fill="#e4f7f2" stroke="#128c83" stroke-width="3"/>
+  <circle r="7" fill="#128c83"/>
+  <path d="M-12-4L-4-12L5-8L13 1L6 11L-5 12L-13 4Z" fill="#d1f1e8" stroke="#128c83" stroke-width="1.5"/>
  </g>
- <!-- Typography and integrated typing-style sequence -->
+ <g transform="translate(286 226) scale(.69)" filter="url(#shadow)">
+  <g fill="#dff4ef" stroke="#238fa0" stroke-width="5" stroke-linejoin="round"><use href="#gear" transform="rotate(18)"/></g>
+  <circle r="23" fill="#f7fffc" stroke="#238fa0" stroke-width="3"/>
+  <circle r="7" fill="#238fa0"/>
+ </g>
+ <!-- Completed puzzle: three fitted pieces, fourth piece visibly arriving into place -->
+ <g transform="translate(118 235)">
+  <rect x="-13" y="-15" width="119" height="119" rx="15" fill="#fafffd" stroke="#b4ded6" stroke-width="1.5"/>
+  <g transform="translate(0 0)" stroke="#fff" stroke-width="3" stroke-linejoin="round">
+   <path d="M0 0H40C36-14 43-23 54-23S72-14 68 0H108V39C122 35 131 43 131 54S122 73 108 68V108H69C73 94 64 85 53 85S34 94 39 108H0V69C-14 73-23 64-23 53S-14 34 0 39Z" fill="#168f83" transform="translate(0 0) scale(.46)"/>
+   <path d="M0 0H40C36-14 43-23 54-23S72-14 68 0H108V39C122 35 131 43 131 54S122 73 108 68V108H69C73 94 64 85 53 85S34 94 39 108H0V69C-14 73-23 64-23 53S-14 34 0 39Z" fill="#5c9ed2" transform="translate(55 0) scale(.46)"/>
+   <path d="M0 0H40C36-14 43-23 54-23S72-14 68 0H108V39C122 35 131 43 131 54S122 73 108 68V108H69C73 94 64 85 53 85S34 94 39 108H0V69C-14 73-23 64-23 53S-14 34 0 39Z" fill="#a6d9cd" transform="translate(0 55) scale(.46)"/>
+  </g>
+  <rect x="43" y="45" width="46" height="46" rx="8" fill="#f4fbf8" stroke="#77c9b8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <g transform="translate(65 68)">
+   <path d="M-17-13H-5C-8-20-3-26 4-26S16-20 13-13H25V-2C32-5 38 0 38 7S32 19 25 16V28H13C16 21 10 16 4 16S-8 21-5 28H-17V16C-24 19-30 13-30 7S-24-5-17-2Z" fill="url(#accent)" stroke="#fff" stroke-width="2">
+    <animateTransform attributeName="transform" type="translate" values="0 -7;0 0;0 0" keyTimes="0;.55;1" dur="2.8s" repeatCount="indefinite"/>
+   </path>
+  </g>
+  <path d="M85 21L99 21L99 35" fill="none" stroke="#168f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M94 30L99 35L104 30" fill="none" stroke="#168f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+ </g>
+ <!-- Small clinical marker: cross inside a data node, not a generic decoration -->
+ <g transform="translate(348 151)">
+  <circle r="23" fill="#fff" stroke="#b4ded6" stroke-width="1.5"/>
+  <path d="M-4-12H4V-4H12V4H4V12H-4V4H-12V-4H-4Z" fill="#168f83"/>
+  <circle r="30" fill="none" stroke="#9bd9ce" stroke-dasharray="2 5"/>
+ </g>
+ <!-- Typography -->
  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <rect x="66" y="42" width="235" height="28" rx="14" fill="#fff" stroke="#b9e8df"/>
-  <circle cx="83" cy="56" r="4" fill="#00b99f"><animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
-  <text x="97" y="60" font-size="10" font-weight="700" letter-spacing="1.8" fill="#287d78">DATA SCIENCE  /  HEALTHCARE AI</text>
-  <text x="62" y="123" font-size="48" font-weight="800" letter-spacing="-1.5" fill="url(#ink)">MOBINA</text>
-  <text x="62" y="175" font-size="48" font-weight="800" letter-spacing="-1.7" fill="url(#ink)">HAGHSHENAS<tspan fill="#00b99f">.</tspan></text>
-  <text x="66" y="208" font-size="15" font-weight="600" fill="#426875">Data-driven thinking. Intelligent systems.</text>
-  <text x="66" y="228" font-size="15" font-weight="600" fill="#426875">Better decisions.</text>
-  <path d="M66 247H510" stroke="#b6e4de"/>
-  <circle cx="70" cy="272" r="3" fill="#00b99f"/>
-  <text x="83" y="277" font-size="13" font-family="JetBrains Mono,Consolas,monospace" fill="#197f7b"> <tspan>Turning data into decisions</tspan><animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;.22;.5;.78;1" dur="11.2s" repeatCount="indefinite"/></text>
-  <text x="83" y="277" font-size="13" font-family="JetBrains Mono,Consolas,monospace" fill="#197f7b" opacity="0">Exploring AI that can be explained<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.22;.24;.48;1" dur="11.2s" repeatCount="indefinite"/></text>
-  <text x="83" y="277" font-size="13" font-family="JetBrains Mono,Consolas,monospace" fill="#197f7b" opacity="0">Modeling complex systems &amp; optimizing them<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.49;.51;.73;1" dur="11.2s" repeatCount="indefinite"/></text>
-  <text x="83" y="277" font-size="13" font-family="JetBrains Mono,Consolas,monospace" fill="#197f7b" opacity="0">Interested in healthcare AI &amp; medical imaging<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.75;.77;1" dur="11.2s" repeatCount="indefinite"/></text>
-  <rect x="83" y="287" width="3" height="17" rx="1.5" fill="#00b99f"><animate attributeName="x" values="83;270;83" dur="4s" repeatCount="indefinite"/></rect>
-  <g font-size="10" font-weight="700" letter-spacing="1.5" fill="#287d78"><text x="66" y="330">HEALTHCARE AI</text><circle cx="178" cy="326" r="2" fill="#00b99f"/><text x="192" y="330">OPTIMIZATION</text><circle cx="306" cy="326" r="2" fill="#00b99f"/><text x="320" y="330">ANALYTICS</text></g>
+  <rect x="465" y="48" width="253" height="27" rx="13.5" fill="#fff" stroke="#c1e5dc"/>
+  <circle cx="482" cy="61.5" r="4" fill="#18a58f"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="495" y="65" font-size="10" font-weight="700" letter-spacing="1.55" fill="#287b76">DATA SCIENCE / HEALTHCARE AI</text>
+  <text x="460" y="128" font-size="47" font-weight="800" letter-spacing="-1.7" fill="#174754">MOBINA</text>
+  <text x="460" y="179" font-size="47" font-weight="800" letter-spacing="-1.8" fill="#174754">HAGHSHENAS<tspan fill="#16a58f">.</tspan></text>
+  <text x="464" y="211" font-size="15" font-weight="600" fill="#4a6c76">Connecting data, models, and real-world decisions.</text>
+  <path d="M464 235H1108" stroke="#c4e5df" stroke-width="1.3"/>
+  <circle cx="468" cy="263" r="3" fill="#18a58f"/>
+  <g font-family="JetBrains Mono,Consolas,monospace" font-size="13" fill="#197c77">
+   <text x="481" y="268">Turning data into decisions<animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;.22;.5;.78;1" dur="11.2s" repeatCount="indefinite"/></text>
+   <text x="481" y="268" opacity="0">Exploring AI that can be explained<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.22;.24;.48;1" dur="11.2s" repeatCount="indefinite"/></text>
+   <text x="481" y="268" opacity="0">Modeling complex systems &amp; optimizing them<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.49;.51;.73;1" dur="11.2s" repeatCount="indefinite"/></text>
+   <text x="481" y="268" opacity="0">Interested in healthcare AI &amp; medical imaging<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.75;.77;1" dur="11.2s" repeatCount="indefinite"/></text>
+  </g>
+  <rect x="481" y="281" width="3" height="15" rx="1.5" fill="#18a58f"><animate attributeName="x" values="481;690;481" dur="4.5s" repeatCount="indefinite"/></rect>
+  <g font-size="10" font-weight="700" letter-spacing="1.6" fill="#287b76">
+   <text x="465" y="329">OPTIMIZATION</text><circle cx="579" cy="325" r="2" fill="#18a58f"/>
+   <text x="593" y="329">MACHINE LEARNING</text><circle cx="735" cy="325" r="2" fill="#18a58f"/>
+   <text x="749" y="329">MEDICAL IMAGING</text>
+  </g>
  </g>
- <rect x=".75" y=".75" width="1198.5" height="388.5" rx="22" fill="none" stroke="#b8e7df" stroke-width="1.5"/>
+ <rect x=".75" y=".75" width="1198.5" height="388.5" rx="22" fill="none" stroke="#c0e4dc" stroke-width="1.5"/>
 </g></svg>
