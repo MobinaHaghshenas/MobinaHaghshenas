@@ -78,7 +78,7 @@ font-family="Consolas,monospace" font-size="9" fill="#7f9dbd">EPOCH 01 — 40</t
  <!-- Typography: generous breathing room and a clear hierarchy -->
  <g font-family="Inter,Segoe UI,Arial,sans-serif">
   <rect x="645" y="65" width="278" height="28" rx="14" fill="#1b3854" stroke="#4c718e" stroke-opacity=".65"/>
-  <circle cx="662" cy="79" r="4" fill="#52e8ca"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+  
  
   <text x="642" y="151" font-size="45" font-weight="800" letter-spacing="-1.8" fill="#f4f8ff">MOBINA</text>
   <text x="642" y="201" font-size="45" font-weight="800" letter-spacing="-1.8" fill="#f4f8ff">HAGHSHENAS</text>
