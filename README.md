@@ -62,16 +62,16 @@ A curated selection of projects across AI, decision science, healthcare, and bus
 
 ## 🔎 Areas I’m exploring
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/web-471952966.webp" alt="Data analytics and technology illustration" width="360" align="right">
-
-  - **Data analytics & predictive modeling** — turning data into interpretable findings.
-  - **Machine learning** — comparing approaches for classification, regression, and pattern discovery.
-  - **Explainable AI** — understanding model behavior and making results easier to interpret.
-  - **Healthcare AI & medical imaging** — exploring deep learning and transfer learning applications.
-  - **Optimization & decision support** — modeling constraints and evaluating alternatives for resource allocation.
-  - **Simulation & network science** — studying system behavior, workflows, relationships, and communities.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/web-471952966.webp" alt="Data analytics and technology illustration" width="160">
 </div>
+
+- **Data analytics & predictive modeling** — turning data into interpretable findings.
+- **Machine learning** — comparing approaches for classification, regression, and pattern discovery.
+- **Explainable AI** — understanding model behavior and making results easier to interpret.
+- **Healthcare AI & medical imaging** — exploring deep learning and transfer learning applications.
+- **Optimization & decision support** — modeling constraints and evaluating alternatives for resource allocation.
+- **Simulation & network science** — studying system behavior, workflows, relationships, and communities.
 
 ---
 
