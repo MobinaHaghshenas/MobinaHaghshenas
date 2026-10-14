@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Mobina Haghshenas — closing banner</title>
+  <desc id="desc">Custom midnight-blue vector footer with flowing cyan data paths, geometric nodes and a concise closing statement.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b18"/><stop offset=".58" stop-color="#0c2032"/><stop offset="1" stop-color="#102c3c"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3b5" stop-opacity=".08"/><stop offset=".48" stop-color="#5debd6"/><stop offset="1" stop-color="#70dfff" stop-opacity=".12"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#91f5e5" opacity=".16"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <rect width="1200" height="190" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="190" rx="16" fill="url(#dots)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="1.4">
+    <path d="M-30 143 C120 35 245 178 390 96 S640 23 770 95 S1000 174 1230 43"/>
+    <path d="M-30 163 C130 55 245 198 400 116 S640 43 780 115 S1000 194 1230 63" opacity=".45"/>
+    <path d="M-30 123 C120 15 245 158 380 76 S630 3 760 75 S990 154 1230 23" opacity=".35"/>
+  </g>
+  <g stroke="#64e9d2" stroke-opacity=".6" fill="none" stroke-width="1">
+    <path d="M90 54L145 84L202 43L253 76L305 49"/>
+    <path d="M895 135L948 103L1000 142L1055 91L1112 120L1160 79"/>
+  </g>
+  <g fill="#6ef1d8">
+    <circle cx="90" cy="54" r="3"/><circle cx="145" cy="84" r="4"/><circle cx="202" cy="43" r="3"/><circle cx="253" cy="76" r="3"/><circle cx="305" cy="49" r="3"/>
+    <circle cx="895" cy="135" r="3"/><circle cx="948" cy="103" r="3"/><circle cx="1000" cy="142" r="4"/><circle cx="1055" cy="91" r="3"/><circle cx="1112" cy="120" r="3"/><circle cx="1160" cy="79" r="3"/>
+  </g>
+  <circle cx="145" cy="84" r="12" fill="#39e1c2" opacity=".22" filter="url(#glow)"/>
+  <circle cx="1000" cy="142" r="12" fill="#39e1c2" opacity=".22" filter="url(#glow)"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="64" font-size="11" letter-spacing="4" fill="#74e9d7">THANKS FOR STOPPING BY</text>
+    <text x="600" y="104" font-size="27" font-weight="700" letter-spacing="2" fill="#f1fbff">BUILD WITH CURIOSITY<tspan fill="#4ce0c5">.</tspan></text>
+    <text x="600" y="132" font-size="13" letter-spacing="2" fill="#b5d0dd">QUESTION  ·  MODEL  ·  IMPROVE</text>
+  </g>
+  <path d="M32 18H54M32 18V40M1168 150H1146M1168 150V172" stroke="#59e5ce" stroke-width="1.4" stroke-opacity=".65" fill="none"/>
+  <rect x=".7" y=".7" width="1198.6" height="188.6" rx="16" fill="none" stroke="#5fe7d0" stroke-opacity=".24"/>
+</svg>
