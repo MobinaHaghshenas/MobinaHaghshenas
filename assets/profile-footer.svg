@@ -1,21 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
-<title id="title">Thanks for visiting</title>
-<desc id="desc">A quiet dark closing banner with flowing fine lines and a small animated data point, complementing the main analytics artwork without repeating its illustration.</desc>
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".6" stop-color="#102641"/><stop offset="1" stop-color="#172c48"/></linearGradient>
- <linearGradient id="line"><stop stop-color="#52f0ce" stop-opacity=".05"/><stop offset=".5" stop-color="#52f0ce" stop-opacity=".85"/><stop offset="1" stop-color="#9b9cff" stop-opacity=".25"/></linearGradient>
- <clipPath id="clip"><rect width="1200" height="112" rx="18"/></clipPath>
-</defs>
-<g clip-path="url(#clip)">
- <rect width="1200" height="112" fill="url(#bg)"/>
- <path d="M0 85C125 22 210 106 336 58S548 25 665 68 842 102 950 48 1090 27 1200 59" fill="none" stroke="url(#line)" stroke-width="1.5"/>
- <path d="M0 97C125 34 210 118 336 70S548 37 665 80 842 114 950 60 1090 39 1200 71" fill="none" stroke="#7d9dca" stroke-opacity=".22" stroke-width="1"/>
- <path d="M0 73C125 10 210 94 336 46S548 13 665 56 842 90 950 36 1090 15 1200 47" fill="none" stroke="#7d9dca" stroke-opacity=".16" stroke-width="1"/>
- <circle r="4" fill="#52f0ce"><animateMotion dur="8s" repeatCount="indefinite" path="M0 73C125 10 210 94 336 46S548 13 665 56 842 90 950 36 1090 15 1200 47"/></circle>
- <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <text x="55" y="43" font-size="10" font-weight="700" letter-spacing="2.5" fill="#74a1bd">IDEAS BECOME IMPACT</text>
-  <text x="55" y="73" font-size="23" font-weight="800" letter-spacing=".5" fill="#f4f8ff">Thanks for exploring my work<tspan fill="#52f0ce">.</tspan></text>
-  <text x="1144" y="45" text-anchor="end" font-family="Consolas,monospace" font-size="10" letter-spacing="1.1" fill="#8da9c6">DATA → INSIGHT → ACTION</text>
- </g>
- <rect x=".75" y=".75" width="1198.5" height="110.5" rx="18" fill="none" stroke="#476581" stroke-opacity=".65" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="footerTitle footerDesc">
+<title id="footerTitle">Thank you for visiting</title>
+<desc id="footerDesc">Minimal lavender and indigo footer matched to the business analysis banner, with a small orange accent and flowing lines.</desc>
+<defs><linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f2ff"/><stop offset="1" stop-color="#e7e5ff"/></linearGradient><linearGradient id="footerLine"><stop stop-color="#aaa7ef" stop-opacity=".15"/><stop offset=".55" stop-color="#716fd0" stop-opacity=".75"/><stop offset="1" stop-color="#ff9e3d" stop-opacity=".5"/></linearGradient><clipPath id="footerClip"><rect width="1200" height="112" rx="18"/></clipPath></defs>
+<g clip-path="url(#footerClip)">
+ <rect width="1200" height="112" fill="url(#footerBg)"/>
+ <path d="M0 91C155 28 230 106 370 65S592 27 710 69 935 97 1034 52 1130 38 1200 55" fill="none" stroke="url(#footerLine)" stroke-width="1.5"/>
+ <path d="M0 101C155 38 230 116 370 75S592 37 710 79 935 107 1034 62 1130 48 1200 65" fill="none" stroke="#a6a3e8" stroke-opacity=".35"/>
+ <circle r="4" fill="#ff9e3d"><animateMotion dur="10s" repeatCount="indefinite" path="M0 91C155 28 230 106 370 65S592 27 710 69 935 97 1034 52 1130 38 1200 55"/></circle>
+ <g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="52" y="39" font-size="10" font-weight="700" letter-spacing="2.8" fill="#7774bb">CURIOUS BY DESIGN</text><text x="52" y="72" font-size="23" font-weight="800" fill="#292950">Thanks for stopping by<tspan fill="#ff9e3d">.</tspan></text><text x="1148" y="42" text-anchor="end" font-family="Consolas,monospace" font-size="10" letter-spacing="1.2" fill="#7774a9">OBSERVE  ·  ANALYZE  ·  IMPROVE</text></g>
+ <rect x=".75" y=".75" width="1198.5" height="110.5" rx="18" fill="none" stroke="#d6d4f5" stroke-width="1.5"/>
 </g></svg>
