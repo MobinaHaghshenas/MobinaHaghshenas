@@ -143,3 +143,9 @@ For conversations about **data science, healthcare AI, optimization, or analytic
 <a href="mailto:mobinahaghshenas73@gmail.com">mobinahaghshenas73@gmail.com</a>
 
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" width="100%" alt="Custom midnight-blue and cyan vector closing banner" />
+
+</div>
