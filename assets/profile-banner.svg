@@ -1,63 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Mobina Haghshenas — Data, AI and Optimization</title>
-  <desc id="desc">A polished animated midnight-blue banner with teal orbital paths, data nodes and subtle moving signal lines.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071321"/><stop offset=".56" stop-color="#10283b"/><stop offset="1" stop-color="#071b2b"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#5cf0d0"/><stop offset=".55" stop-color="#29cbb5"/><stop offset="1" stop-color="#7be7ff"/>
-    </linearGradient>
-    <radialGradient id="glow"><stop offset="0" stop-color="#21d6c2" stop-opacity=".22"/><stop offset="1" stop-color="#21d6c2" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9dece0" stroke-opacity=".075" stroke-width="1"/></pattern>
-    <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
-    <clipPath id="clip"><rect width="1200" height="330" rx="18"/></clipPath>
-  </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="330" fill="url(#bg)"/>
-    <rect width="1200" height="330" fill="url(#grid)"/>
-    <ellipse cx="940" cy="160" rx="350" ry="250" fill="url(#glow)"/>
-    <path d="M0 280 C210 240 310 325 520 270 S850 200 1200 245" fill="none" stroke="#2ee5c5" stroke-opacity=".12" stroke-width="1.5"/>
-    <path d="M0 295 C250 250 360 340 580 285 S900 225 1200 265" fill="none" stroke="#76e9ff" stroke-opacity=".1" stroke-width="1"/>
-    <g fill="none" stroke="url(#accent)" stroke-width="1.3" stroke-opacity=".5">
-      <ellipse cx="945" cy="160" rx="205" ry="90" transform="rotate(-28 945 160)"/>
-      <ellipse cx="945" cy="160" rx="205" ry="90" transform="rotate(28 945 160)"/>
-      <ellipse cx="945" cy="160" rx="150" ry="118" transform="rotate(78 945 160)" stroke-opacity=".28"/>
-    </g>
-    <g stroke="#65e9d1" stroke-opacity=".4" stroke-width="1">
-      <path d="M790 91L858 125L927 67L1011 111L1091 77L1140 135"/>
-      <path d="M811 220L886 181L954 245L1032 194L1115 224"/>
-      <path d="M858 125L886 181L1011 111L1032 194L954 245"/>
-      <path d="M927 67L954 245M1091 77L1115 224"/>
-    </g>
-    <g fill="#6cf5d8">
-      <circle cx="790" cy="91" r="3"/><circle cx="858" cy="125" r="4"/><circle cx="927" cy="67" r="3"/>
-      <circle cx="1011" cy="111" r="4"/><circle cx="1091" cy="77" r="3"/><circle cx="1140" cy="135" r="3"/>
-      <circle cx="811" cy="220" r="3"/><circle cx="886" cy="181" r="4"/><circle cx="954" cy="245" r="3"/>
-      <circle cx="1032" cy="194" r="4"/><circle cx="1115" cy="224" r="3"/>
-    </g>
-    <circle cx="1011" cy="111" r="13" fill="#45e5c7" opacity=".22" filter="url(#soft)"/>
-    <circle cx="1011" cy="111" r="5" fill="#a5fff0">
-      <animate attributeName="r" values="4;7;4" dur="3.4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;.55;1" dur="3.4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="886" cy="181" r="4" fill="#b3f7ff"><animate attributeName="r" values="3;5;3" dur="2.7s" repeatCount="indefinite"/></circle>
-    <path d="M760 161H1155" stroke="#70f2dc" stroke-opacity=".25" stroke-width="1" stroke-dasharray="3 10">
-      <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="5s" repeatCount="indefinite"/>
-    </path>
-    <g font-family="Inter,Segoe UI,Arial,sans-serif">
-      <text x="76" y="80" font-size="12" letter-spacing="4" fill="#75e7d5">INDUSTRIAL ENGINEERING  /  DATA SCIENCE</text>
-      <path d="M76 101H148" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-      <text x="72" y="158" font-size="43" font-weight="700" letter-spacing="1.3" fill="#f1fbff">MOBINA</text>
-      <text x="72" y="208" font-size="43" font-weight="700" letter-spacing="1.3" fill="#f1fbff">HAGHSHENAS<tspan fill="#54e5cc">.</tspan></text>
-      <text x="76" y="247" font-size="16" fill="#b8d3df">Data-driven thinking. Intelligent systems. Better decisions.</text>
-      <g transform="translate(76 279)" font-size="11" letter-spacing="1.7" fill="#73e6d5">
-        <text x="0" y="0">AI &amp; HEALTHCARE</text><circle cx="142" cy="-4" r="2" fill="#5be8d0"/>
-        <text x="158" y="0">OPTIMIZATION</text><circle cx="277" cy="-4" r="2" fill="#5be8d0"/>
-        <text x="293" y="0">ANALYTICS</text>
-      </g>
-    </g>
-    <path d="M30 20H60M30 20V50M1170 280H1140M1170 280V310" stroke="#58e6ce" stroke-opacity=".65" stroke-width="1.5" fill="none"/>
-    <rect x="1" y="1" width="1198" height="328" rx="18" fill="none" stroke="#67e8d4" stroke-opacity=".28"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Mobina Haghshenas — animated data and intelligence banner</title>
+<desc id="desc">Original coded SVG animation with a moving luminous signal, orbital data paths, pulsing nodes and a scanning grid.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050a16"/><stop offset=".5" stop-color="#0b1d30"/><stop offset="1" stop-color="#071625"/></linearGradient>
+  <linearGradient id="neon"><stop stop-color="#4df0c8"/><stop offset=".5" stop-color="#5dd9ff"/><stop offset="1" stop-color="#a2ffe7"/></linearGradient>
+  <linearGradient id="scan"><stop stop-color="#38e8cb" stop-opacity="0"/><stop offset=".5" stop-color="#38e8cb" stop-opacity=".8"/><stop offset="1" stop-color="#38e8cb" stop-opacity="0"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#11cdb5" stop-opacity=".23"/><stop offset="1" stop-color="#11cdb5" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#9aece0" stroke-opacity=".07"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="5"/></filter>
+  <clipPath id="clip"><rect width="1200" height="340" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="340" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
+<ellipse cx="930" cy="170" rx="330" ry="260" fill="url(#aura)"/>
+<path d="M0 300H1200" stroke="#65ead5" stroke-opacity=".15"/>
+<path d="M0 314H1200" stroke="#65ead5" stroke-opacity=".08"/>
+<!-- animated scan beam -->
+<rect x="-260" y="0" width="180" height="340" fill="url(#scan)" opacity=".2" transform="skewX(-18)">
+  <animate attributeName="x" values="-300;1450" dur="9s" repeatCount="indefinite"/>
+</rect>
+<!-- custom orbital system -->
+<g transform="translate(940 165)" fill="none" stroke="url(#neon)">
+ <ellipse rx="210" ry="78" transform="rotate(-28)" stroke-opacity=".45" stroke-width="1.2"/>
+ <ellipse rx="210" ry="78" transform="rotate(28)" stroke-opacity=".32" stroke-width="1.2"/>
+ <ellipse rx="155" ry="116" transform="rotate(78)" stroke-opacity=".25" stroke-width="1"/>
+ <circle r="60" stroke-opacity=".12" stroke-dasharray="3 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="38s" repeatCount="indefinite"/></circle>
+</g>
+<!-- connected graph -->
+<g fill="none" stroke="#62e9d4" stroke-opacity=".42" stroke-width="1.3">
+ <path d="M770 87L850 124L918 70L1000 111L1082 77L1140 130"/>
+ <path d="M796 230L876 187L951 250L1030 198L1114 226"/>
+ <path d="M850 124L876 187L1000 111L1030 198L951 250L918 70"/>
+ <path d="M1082 77L1114 226M918 70L951 250"/>
+ <path d="M850 124L770 87M1000 111L1140 130"/>
+</g>
+<g fill="#6df4dc">
+ <circle cx="770" cy="87" r="3"/><circle cx="850" cy="124" r="4"/><circle cx="918" cy="70" r="3"/><circle cx="1000" cy="111" r="4"/><circle cx="1082" cy="77" r="3"/><circle cx="1140" cy="130" r="3"/><circle cx="796" cy="230" r="3"/><circle cx="876" cy="187" r="4"/><circle cx="951" cy="250" r="3"/><circle cx="1030" cy="198" r="4"/><circle cx="1114" cy="226" r="3"/>
+</g>
+<circle cx="1000" cy="111" r="18" fill="#2ce3c3" opacity=".24" filter="url(#blur)"/>
+<circle cx="1000" cy="111" r="5" fill="#d4fff7"><animate attributeName="r" values="4;8;4" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.55;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="876" cy="187" r="4" fill="#b9faff"><animate attributeName="r" values="3;6;3" dur="3.2s" repeatCount="indefinite"/></circle>
+<!-- traveling signal on the network -->
+<circle r="4.5" fill="#ffffff"><animateMotion dur="6s" repeatCount="indefinite" path="M770 87 L850 124 L1000 111 L1082 77 L1140 130"/></circle>
+<circle r="3.5" fill="#a2fff0"><animateMotion dur="7.5s" repeatCount="indefinite" path="M796 230 L876 187 L951 250 L1030 198 L1114 226"/></circle>
+<path d="M755 164H1160" stroke="#6ff5dc" stroke-opacity=".28" stroke-dasharray="2 10"><animate attributeName="stroke-dashoffset" from="0" to="-96" dur="4s" repeatCount="indefinite"/></path>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="72" y="70" font-size="12" letter-spacing="4" fill="#6fe8d4">INDUSTRIAL ENGINEERING  /  DATA SCIENCE</text>
+ <path d="M72 91H155" stroke="url(#neon)" stroke-width="3" stroke-linecap="round"/>
+ <text x="68" y="151" font-size="43" font-weight="700" letter-spacing="1.3" fill="#f3fbff">MOBINA</text>
+ <text x="68" y="201" font-size="43" font-weight="700" letter-spacing="1.1" fill="#f3fbff">HAGHSHENAS<tspan fill="#56e7ca">.</tspan></text>
+ <text x="72" y="239" font-size="16" fill="#bad3e0">Data-driven thinking. Intelligent systems. Better decisions.</text>
+ <g font-size="11" letter-spacing="1.8" fill="#72e9d6"><text x="72" y="276">AI &amp; HEALTHCARE</text><circle cx="217" cy="272" r="2" fill="#62ecd3"/><text x="234" y="276">OPTIMIZATION</text><circle cx="357" cy="272" r="2" fill="#62ecd3"/><text x="374" y="276">ANALYTICS</text></g>
+ <text x="72" y="315" font-size="9" letter-spacing="2.8" fill="#5c8798">SIGNAL / SYSTEM / INSIGHT</text>
+</g>
+<path d="M24 20H52M24 20V48M1176 292H1148M1176 292V320" stroke="#58e6ce" stroke-opacity=".7" stroke-width="1.5" fill="none"/>
+<rect x=".7" y=".7" width="1198.6" height="338.6" rx="16" fill="none" stroke="#67e8d4" stroke-opacity=".3"/>
+</g></svg>
