@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061522,25:0B2638,60:145365,100:20B2AA&height=250&section=header&text=MOBINA%20HAGHSHENAS&fontSize=43&fontColor=F2FBFF&fontAlignY=38&fontAlign=50&stroke=2AA198&strokeWidth=1&animation=twinkling&desc=INDUSTRIAL%20ENGINEERING%20%E2%80%A2%20DATA%20%E2%80%A2%20AI%20%E2%80%A2%20OPTIMIZATION&descSize=13&descAlignY=59" width="100%" alt="Animated neon wave banner with Mobina Haghshenas name" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,30:102A43,65:087E8B,100:20E3B2&height=250&section=header&text=MOBINA%20HAGHSHENAS&fontSize=42&fontColor=E9FFFB&fontAlignY=42&desc=INDUSTRIAL%20ENGINEERING%20%2F%20DATA%20SCIENCE%20%2F%20AI&descSize=13&descAlignY=62&animation=twinkling&stroke=20E3B2&strokeWidth=1" width="100%" alt="Animated digital venom-style header for Mobina Haghshenas" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=73E0D3&center=true&vCenter=true&width=520&height=28&lines=%3C+DATA+%7C+MODELS+%7C+DECISIONS+%2F%3E" alt="Animated data and decision tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=550&color=20E3B2&center=true&vCenter=true&width=560&height=32&lines=%24+initializing+ideas...;[OK]+data+loaded;[RUN]+models+%7C+insights+%7C+decisions" alt="Animated terminal-style tagline" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=2AA198&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Exploring+AI+that+can+be+explained;Modeling+complex+systems+%26+optimizing+them;Interested+in+healthcare+AI+%26+medical+imaging" alt="Animated typing introduction" />
 </a>
 
 <p>
-  <a href="mailto:mobinahaghshenas73@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-2AA198?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mobina-haghshenas/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-123D56?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/MobinaHaghshenas?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-071A2C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  <a href="mailto:mobinahaghshenas73@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-20B2AA?style=for-the-badge&logo=gmail&logoColor=061522" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mobina-haghshenas/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-102A43?style=for-the-badge&logo=linkedin&logoColor=20E3B2" alt="LinkedIn" /></a>
+  <a href="https://github.com/MobinaHaghshenas?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-050816?style=for-the-badge&logo=github&logoColor=20E3B2" alt="GitHub repositories" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MobinaHaghshenas&style=flat-square&color=2AA198&label=VISITORS" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=MobinaHaghshenas&style=for-the-badge&color=087E8B&label=PROFILE+SIGNALS" alt="Profile view counter" />
 
 </div>
 
@@ -126,13 +126,13 @@ Business process modeling, relational databases, SQL, Power BI, financial-ratio 
 <div align="center">
 
 <a href="https://github.com/MobinaHaghshenas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MobinaHaghshenas&show_icons=true&hide_border=true&bg_color=071A2C&title_color=2AA198&icon_color=2AA198&text_color=E6F1F5&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MobinaHaghshenas&show_icons=true&hide_border=true&bg_color=050816&title_color=20E3B2&icon_color=20E3B2&text_color=E9FFFB&rank_icon=github" alt="GitHub profile statistics" />
 </a>
 <a href="https://github.com/MobinaHaghshenas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobinaHaghshenas&layout=compact&hide_border=true&bg_color=071A2C&title_color=2AA198&text_color=E6F1F5" alt="Most used languages based on public repositories" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobinaHaghshenas&layout=compact&hide_border=true&bg_color=050816&title_color=20E3B2&text_color=E9FFFB" alt="Most used languages based on public repositories" />
 </a>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MobinaHaghshenas&bg_color=071A2C&color=E6F1F5&line=2AA198&point=F4FBFF&area=true&area_color=123D56&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MobinaHaghshenas&bg_color=050816&color=E9FFFB&line=20E3B2&point=FFFFFF&area=true&area_color=102A43&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -144,6 +144,6 @@ For conversations about **data science, healthcare AI, optimization, or analytic
 
 <a href="mailto:mobinahaghshenas73@gmail.com">mobinahaghshenas73@gmail.com</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,35:145365,70:0B2638,100:061522&height=190&section=footer&text=THANKS%20FOR%20EXPLORING&fontSize=25&fontColor=F2FBFF&fontAlignY=58&stroke=2AA198&strokeWidth=1&animation=twinkling&desc=Curiosity%20in%20%E2%80%A2%20Ideas%20out&descSize=13&descAlignY=78" width="100%" alt="Animated teal and navy closing banner" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:20E3B2,35:087E8B,70:102A43,100:050816&height=200&section=footer&text=END%20OF%20TRANSMISSION&fontSize=24&fontColor=E9FFFB&fontAlignY=60&animation=twinkling&stroke=20E3B2&strokeWidth=1&desc=KEEP%20ASKING%20BETTER%20QUESTIONS&descSize=12&descAlignY=80" width="100%" alt="Animated shark-style digital closing banner" />
 
 </div>
