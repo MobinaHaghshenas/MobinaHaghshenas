@@ -16,32 +16,51 @@
 
 ## 👋 About me
 
-I’m an **Industrial Engineering graduate** interested in using data and analytical methods to support better decisions. My work and learning focus on **data analytics, machine learning, mathematical optimization, and simulation**—from exploring patterns in datasets to modeling real-world systems and comparing possible solutions.
-
-I’m particularly interested in **explainable AI** and the use of deep learning in **healthcare and medical imaging**. I value clear problem formulation, thoughtful method selection, and communicating what an analysis can—and cannot—tell us.
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/web-471952966.webp" alt="Data analytics and technology illustration" width="300">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/about-me-overlay.svg" alt="About Mobina: Industrial Engineering graduate interested in data analytics, machine learning, optimization, simulation, explainable AI, healthcare, and medical imaging." width="100%">
 
 </div>
 
 ---
 
-## 🧩 Selected work & tools
+## 🧩 Selected projects
 
-A selection of projects exploring analytical methods across business, healthcare, and decision-making.
+A curated selection of projects across AI, decision science, healthcare, and business analytics.
 
-| Project | Methods & tools | Project focus |
-|---|---|---|
-| [**Spectral Clustering · Risk Analysis**](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis) | Python · Spectral clustering · Validation | Applying unsupervised learning to group new-product-development risks and assess cluster quality. |
-| [**Machine Learning Portfolio**](https://github.com/MobinaHaghshenas/machine-learning-projects) | Python · Classification · Regression | Practical examples involving classification, regression, anomaly detection, and customer segmentation. |
-| [**AI Algorithms**](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms) | Python · Search · Metaheuristics | Implementations of Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing. |
-| [**Ambulance Location Optimization**](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization) | Python · Mixed-integer optimization | Modeling ambulance-station locations, allocation, and service coverage as a decision problem. |
-| [**MRI Department Simulation**](https://github.com/MobinaHaghshenas/MRI-department-simulation) | Python · Discrete-event simulation | Simulating patient flow and exploring resource use and personnel planning in an MRI department. |
-| [**Nutrigenomics Network Analysis**](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics) | Python · Network analysis | Examining co-authorship networks using centrality measures and community detection. |
-| [**Business Analytics Portfolio**](https://github.com/MobinaHaghshenas/business-analytics) | SQL · MySQL · Power BI · Process modeling | Working with business processes, relational data, financial ratios, and multi-criteria decision-making. |
+### 🤖 AI & Machine Learning
 
+- **[Machine Learning Portfolio](https://github.com/MobinaHaghshenas/machine-learning-projects)**  
+  Classification, regression, anomaly detection, and customer segmentation.
+- **[AI Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)**  
+  Search and optimization approaches, including Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
+- **[Spectral Clustering · Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)**  
+  Using unsupervised learning to group new-product-development risks and assess cluster quality.
+
+### ⚙️ Optimization & Simulation
+
+- **[Ambulance Location Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)**  
+  Modeling ambulance-station locations, allocation, and service coverage as a decision problem.
+- **[MRI Department Simulation](https://github.com/MobinaHaghshenas/MRI-department-simulation)**  
+  Simulating patient flow and exploring resource use and personnel planning in an MRI department.
+
+### 📊 Data, Networks & Business Analytics
+
+- **[Nutrigenomics Network Analysis](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)**  
+  Examining co-authorship networks using centrality measures and community detection.
+- **[Business Analytics Portfolio](https://github.com/MobinaHaghshenas/business-analytics)**  
+  Exploring business processes, relational data, financial ratios, and multi-criteria decision-making.
+
+### 🧰 Tools used across projects
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
 ---
 
 ## 🔎 Areas I’m exploring
@@ -52,14 +71,6 @@ A selection of projects exploring analytical methods across business, healthcare
 - **Healthcare AI & medical imaging** — exploring deep learning and transfer learning applications.
 - **Optimization & decision support** — modeling constraints and evaluating alternatives for resource allocation.
 - **Simulation & network science** — studying system behavior, workflows, relationships, and communities.
-
----
-
-## 🛠️ Tools
-
-**Programming & data:** Python, SQL, MySQL  
-**Analytics & modeling:** Machine learning, clustering, network analysis, simulation, mathematical optimization  
-**Workflow:** Git, GitHub
 
 ---
 
