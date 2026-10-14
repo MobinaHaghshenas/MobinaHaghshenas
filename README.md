@@ -12,7 +12,7 @@
   <a href="https://github.com/MobinaHaghshenas?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-071A2C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MobinaHaghshenas&style=flat-square&color=2AA198&label=PROFILE+VIEWS" alt="Profile view counter" />
+
 
 </div>
 
@@ -125,20 +125,6 @@ Business process modeling, relational databases, SQL, Power BI, financial-ratio 
 
 </div>
 
-## ◈ GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/MobinaHaghshenas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MobinaHaghshenas&show_icons=true&hide_border=true&bg_color=071A2C&title_color=2AA198&icon_color=2AA198&text_color=E6F1F5&rank_icon=github" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/MobinaHaghshenas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobinaHaghshenas&layout=compact&hide_border=true&bg_color=071A2C&title_color=2AA198&text_color=E6F1F5" alt="Most used languages based on public repositories" />
-</a>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MobinaHaghshenas&bg_color=071A2C&color=E6F1F5&line=2AA198&point=F4FBFF&area=true&area_color=123D56&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
 
 ## ◈ Let's connect
 
