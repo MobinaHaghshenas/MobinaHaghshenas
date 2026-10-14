@@ -62,9 +62,7 @@ A curated selection of projects across AI, decision science, healthcare, and bus
 
 ## 🔎 Areas I’m exploring
 
-<table>
-<tr>
-<td width="68%" valign="top">
+<img align="right" src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/web-471952966.webp" alt="Data analytics and technology illustration" width="180">
 
 - **Data analytics & predictive modeling** — turning data into interpretable findings.
 - **Machine learning** — comparing approaches for classification, regression, and pattern discovery.
@@ -73,14 +71,7 @@ A curated selection of projects across AI, decision science, healthcare, and bus
 - **Optimization & decision support** — modeling constraints and evaluating alternatives for resource allocation.
 - **Simulation & network science** — studying system behavior, workflows, relationships, and communities.
 
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/web-471952966.webp" alt="Data analytics and technology illustration" width="220">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ---
 
