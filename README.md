@@ -1,3 +1,41 @@
+<div align="center">
+
+# Hi, I'm Mobina 👋
+
+Industrial Engineering · Data Analytics · AI · Optimization
+
+I work on data-driven problem solving, machine learning, and optimization, with interests spanning healthcare analytics, explainable AI, and operational decision-making.
+
+![Email](mailto:mobinahaghshenas73@gmail.com)
+![LinkedIn](https://www.linkedin.com/in/mobina-haghshenas/)
+![GitHub](https://github.com/MobinaHaghshenas?tab=repositories)
+
+</div>
+
+---
+
+## About
+
+My background is in Industrial Engineering, and I’m interested in using analytical and computational methods to understand complex systems and support better decisions.
+
+My projects bring together machine learning, data analysis, mathematical optimization, simulation, and social network analysis. I’m particularly interested in explainable AI and deep learning for medical image analysis.
+
+## Featured Projects
+
+### AI, Machine Learning & Research
+
+- [Spectral Clustering for New Product Development Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)  
+  Applies unsupervised learning to group new-product-development risks, using clustering assessment, cluster selection, and internal validation.
+
+- [Machine Learning Projects](https://github.com/MobinaHaghshenas/machine-learning-projects)  
+  A portfolio of supervised and unsupervised learning work, including classification, regression, anomaly detection, and customer segmentation.
+
+- [Social Network Analysis of Nutrigenomics Research](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)  
+  Studies scientific collaboration using co-authorship networks, network measures, centrality analysis, and community detection.
+
+- [Artificial Intelligence Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)  
+  Python implementations exploring search and optimization, including Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
+
 ### Optimization, Simulation & Decision Support
 
 - [Ambulance Station Location & Allocation Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)  
