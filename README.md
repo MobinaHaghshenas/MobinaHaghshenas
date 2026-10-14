@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-header.svg" alt="Mobina Haghshenas — Industrial Engineering, Data Analytics and AI" width="100%">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" alt="Mobina Haghshenas — Industrial Engineering, Data Analytics and AI" width="100%">
 
 <p>
   <a href="mailto:mobinahaghshenas73@gmail.com">Email</a> ·
@@ -84,7 +84,7 @@ I’m always glad to connect with people working on **data science, healthcare A
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-header.svg" alt="Thank you for visiting my profile" width="100%">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Thank you for visiting my profile" width="100%">
 
 <sub>Thanks for stopping by — explore, learn, and build something meaningful.</sub>
 
