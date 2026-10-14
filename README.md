@@ -79,9 +79,8 @@ A curated selection of projects across AI, decision science, healthcare, and bus
 
 I’m happy to connect about analytics, machine learning, healthcare AI, optimization, or the projects shared here.
 
-<p>
-  <a href="mailto:mobinahaghshenas73@gmail.com"><img src="https://img.shields.io/badge/Email-mobinahaghshenas73%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Mobina"></a>
-  
+<p align="center">
+  mobinahaghshenas73@gmail.com
 </p>
 
 <div align="center">
