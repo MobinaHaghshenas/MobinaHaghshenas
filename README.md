@@ -14,49 +14,66 @@
 
 ---
 
-## ◈ About me
+## 👋 About me
 
-I have a background in **Industrial Engineering** and enjoy working on problems where data, analytical thinking, and practical decisions meet. My interests include **machine learning, data analytics, optimization, and simulation**. I’m also interested in how AI can be made more understandable and how deep learning can be applied to healthcare, especially medical imaging.
+I’m an **Industrial Engineering graduate** interested in using data and analytical methods to support better decisions. My work and learning focus on **data analytics, machine learning, mathematical optimization, and simulation**—from exploring patterns in datasets to modeling real-world systems and comparing possible solutions.
 
-I like learning by building projects, testing different approaches, and understanding why a method works—not just whether it works.
-
----
-
-## ◈ Selected work & tools
-
-| Project | Tools & methods | What I explored |
-|---|---|---|
-| [**Spectral Clustering · Risk Analysis**](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) · Spectral clustering · Validation | Grouping new-product-development risks with unsupervised learning, cluster selection, and internal validation. |
-| [**Machine Learning Portfolio**](https://github.com/MobinaHaghshenas/machine-learning-projects) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) · Classification · Regression | Applied classification, regression, anomaly detection, and customer segmentation projects. |
-| [**AI Algorithms**](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) · Search · Metaheuristics | Python implementations of Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing. |
-| [**Ambulance Location Optimization**](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) · Mixed-integer optimization | Modeling emergency station locations, ambulance allocation, and service coverage. |
-| [**MRI Department Simulation**](https://github.com/MobinaHaghshenas/MRI-department-simulation) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) · Discrete-event simulation | Exploring patient flow, reporting, resource use, and personnel planning in an MRI department. |
-| [**Nutrigenomics Network Analysis**](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) · Network analysis | Exploring co-authorship networks with centrality measures and community detection. |
-| [**Business Analytics Portfolio**](https://github.com/MobinaHaghshenas/business-analytics) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) · SQL · Power BI · Process modeling | Business process modeling, relational databases, financial-ratio analysis, and multi-criteria decision-making. |
-
----
-
-## ◈ Research compass
-
-| Area | Topics |
-|---|---|
-| **Explainable AI** | Understanding and interpreting model behavior |
-| **Healthcare & Medical Imaging** | Deep learning and transfer learning |
-| **Predictive Analytics** | Finding useful patterns in data |
-| **Mathematical Optimization** | Resource allocation and decision support |
-| **Simulation** | Exploring complex systems and workflows |
-| **Network Science** | Studying relationships, collaboration, and communities |
-
----
-
-## ◈ Contact
-
-If you’d like to talk about data science, healthcare AI, optimization, or one of my projects, feel free to reach out.
-
-✉️ [mobinahaghshenas73@gmail.com](mailto:mobinahaghshenas73@gmail.com)
+I’m particularly interested in **explainable AI** and the use of deep learning in **healthcare and medical imaging**. I value clear problem formulation, thoughtful method selection, and communicating what an analysis can—and cannot—tell us.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Matching lavender footer banner" width="100%">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/web-471952966.webp" alt="Data analytics and technology illustration" width="300">
+
+</div>
+
+---
+
+## 🧩 Selected work & tools
+
+A selection of projects exploring analytical methods across business, healthcare, and decision-making.
+
+| Project | Methods & tools | Project focus |
+|---|---|---|
+| [**Spectral Clustering · Risk Analysis**](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis) | Python · Spectral clustering · Validation | Applying unsupervised learning to group new-product-development risks and assess cluster quality. |
+| [**Machine Learning Portfolio**](https://github.com/MobinaHaghshenas/machine-learning-projects) | Python · Classification · Regression | Practical examples involving classification, regression, anomaly detection, and customer segmentation. |
+| [**AI Algorithms**](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms) | Python · Search · Metaheuristics | Implementations of Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing. |
+| [**Ambulance Location Optimization**](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization) | Python · Mixed-integer optimization | Modeling ambulance-station locations, allocation, and service coverage as a decision problem. |
+| [**MRI Department Simulation**](https://github.com/MobinaHaghshenas/MRI-department-simulation) | Python · Discrete-event simulation | Simulating patient flow and exploring resource use and personnel planning in an MRI department. |
+| [**Nutrigenomics Network Analysis**](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics) | Python · Network analysis | Examining co-authorship networks using centrality measures and community detection. |
+| [**Business Analytics Portfolio**](https://github.com/MobinaHaghshenas/business-analytics) | SQL · MySQL · Power BI · Process modeling | Working with business processes, relational data, financial ratios, and multi-criteria decision-making. |
+
+---
+
+## 🔎 Areas I’m exploring
+
+- **Data analytics & predictive modeling** — turning data into interpretable findings.
+- **Machine learning** — comparing approaches for classification, regression, and pattern discovery.
+- **Explainable AI** — understanding model behavior and making results easier to interpret.
+- **Healthcare AI & medical imaging** — exploring deep learning and transfer learning applications.
+- **Optimization & decision support** — modeling constraints and evaluating alternatives for resource allocation.
+- **Simulation & network science** — studying system behavior, workflows, relationships, and communities.
+
+---
+
+## 🛠️ Tools
+
+**Programming & data:** Python, SQL, MySQL  
+**Analytics & modeling:** Machine learning, clustering, network analysis, simulation, mathematical optimization  
+**Workflow:** Git, GitHub
+
+---
+
+## 🤝 Get in touch
+
+I’m happy to connect about analytics, machine learning, healthcare AI, optimization, or the projects shared here.
+
+<p>
+  <a href="mailto:mobinahaghshenas73@gmail.com"><img src="https://img.shields.io/badge/Email-mobinahaghshenas73%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Mobina"></a>
+  <a href="https://www.linkedin.com/in/mobina-haghshenas/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+</p>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Thank you for visiting" width="100%">
 
 </div>
