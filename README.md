@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/about-me-overlay.svg" alt="About Mobina: Industrial Engineering graduate interested in data analytics, machine learning, optimization, simulation, explainable AI, healthcare, and medical imaging." width="100%">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/about-me-overlay.svg?v=2" alt="About Mobina: Industrial Engineering graduate interested in data analytics, machine learning, optimization, simulation, explainable AI, healthcare, and medical imaging." width="100%">
 
 </div>
 
