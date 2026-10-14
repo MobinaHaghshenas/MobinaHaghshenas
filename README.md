@@ -1,91 +1,78 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" alt="Mobina Haghshenas — Industrial Engineering, Data Analytics and AI" width="100%">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" alt="Mobina Haghshenas profile banner" width="100%">
 
-<p>
-  <a href="mailto:mobinahaghshenas73@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/mobina-haghshenas/">LinkedIn</a> ·
-  <a href="https://github.com/MobinaHaghshenas?tab=repositories">GitHub Repositories</a>
-</p>
+# Hi, I'm Mobina 👋
+
+Industrial Engineering · Data Analytics · AI · Optimization
+
+I work on data-driven problem solving, machine learning, and optimization, with interests spanning healthcare analytics, explainable AI, and operational decision-making.
+
+[Email](mailto:mobinahaghshenas73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mobina-haghshenas/) · [GitHub Repositories](https://github.com/MobinaHaghshenas?tab=repositories)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I’m an **Industrial Engineering graduate** interested in combining analytical thinking and computational methods to solve complex, real-world problems. My work spans **machine learning, data analytics, mathematical optimization, simulation, and social network analysis**.
+My background is in Industrial Engineering, and I’m interested in using analytical and computational methods to understand complex systems and support better decisions.
 
-I’m especially interested in **explainable AI (XAI)** and **deep learning for medical image analysis**, with a broader focus on making models useful, interpretable, and relevant to decision-making.
+My projects bring together machine learning, data analysis, mathematical optimization, simulation, and social network analysis. I’m particularly interested in explainable AI and deep learning for medical image analysis.
 
-- **Curiosity:** Interpretable AI, predictive modeling, and learning from data
-- **Research direction:** Healthcare analytics and medical imaging
-- **Problem-solving approach:** Formulate the problem, choose a method, evaluate the results, and improve the solution
-- **Current toolkit:** Python, SQL, Git, and GitHub
-
-## Selected projects
+## Featured Projects
 
 ### AI, Machine Learning & Research
 
-- **[Spectral Clustering · Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)**  
-  Uses unsupervised learning to group new-product-development risks, with cluster selection and internal validation.
+- [Spectral Clustering for New Product Development Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)  
+  Applies unsupervised learning to group new-product-development risks, using clustering assessment, cluster selection, and internal validation.
 
-- **[Machine Learning Projects](https://github.com/MobinaHaghshenas/machine-learning-projects)**  
-  Applied classification, regression, anomaly detection, and customer segmentation projects.
+- [Machine Learning Projects](https://github.com/MobinaHaghshenas/machine-learning-projects)  
+  A portfolio of supervised and unsupervised learning work, including classification, regression, anomaly detection, and customer segmentation.
 
-- **[Artificial Intelligence Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)**  
-  Python implementations of AI and search methods, including Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
+- [Social Network Analysis of Nutrigenomics Research](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)  
+  Studies scientific collaboration using co-authorship networks, network measures, centrality analysis, and community detection.
 
-- **[Social Network Analysis of Nutrigenomics Research](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)**  
-  Explores scientific collaboration through co-authorship networks, centrality measures, and community detection.
+- [Artificial Intelligence Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)  
+  Python implementations exploring search and optimization, including Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
 
-### Optimization, Simulation & Decision Science
+### Optimization, Simulation & Decision Support
 
-- **[Ambulance Station Location Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)**  
-  A mixed-integer optimization model for emergency-service station locations, ambulance allocation, and service coverage.
+- [Ambulance Station Location & Allocation Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)  
+  A mixed-integer optimization model for emergency-service station locations, ambulance allocation, and coverage decisions.
 
-- **[MRI Department Simulation](https://github.com/MobinaHaghshenas/MRI-department-simulation)**  
-  Discrete-event simulation of patient flow, examination and reporting workflows, resource use, and personnel planning in an MRI department.
+- [MRI Department Simulation using AnyLogic](https://github.com/MobinaHaghshenas/MRI-department-simulation)  
+  A discrete-event simulation of patient flow, examination and reporting workflows, resource utilization, and personnel planning in an MRI department.
 
-### Business Analytics
+- [Business Analytics Portfolio](https://github.com/MobinaHaghshenas/business-analytics)  
+  Academic projects in business process modeling, relational database design, SQL, Power BI, financial-ratio analysis, and multi-criteria decision-making.
 
-- **[Business Analytics Portfolio](https://github.com/MobinaHaghshenas/business-analytics)**  
-  Projects involving business process modeling, relational databases, SQL, Power BI, financial-ratio analysis, and multi-criteria decision-making.
+## Research Interests
 
-## Research interests
+- Explainable Artificial Intelligence (XAI)
+- Deep Learning and Transfer Learning
+- Medical Image Analysis
+- Data Analytics and Predictive Modeling
+- Mathematical Optimization and Decision Support
+- Simulation and Complex Systems
 
-| Theme | Topics |
+## Technical Areas
+
+| Area | Methods and tools |
 |---|---|
-| **AI & healthcare** | Explainable AI, deep learning, transfer learning, medical image analysis |
-| **Data & modeling** | Predictive analytics, machine learning, data-driven insights |
-| **Systems & decisions** | Mathematical optimization, resource allocation, decision support |
-| **Complex systems** | Simulation, process analysis, social network analysis |
-
-## Technical toolkit
-
-| Area | Tools and methods |
-|---|---|
-| Programming & data | Python, SQL, data preprocessing, exploratory data analysis |
+| Programming & data | Python, data preprocessing, exploratory analysis |
 | Machine learning | Classification, regression, clustering, anomaly detection |
-| AI algorithms | Minimax, Alpha–Beta Pruning, Genetic Algorithms, Simulated Annealing |
+| AI & optimization | Minimax, Alpha–Beta Pruning, Genetic Algorithms, Simulated Annealing |
 | Operations research | Mixed-integer optimization, facility location, resource allocation |
-| Simulation & networks | AnyLogic, discrete-event simulation, NetworkX, Gephi |
-| Analytics & reporting | Power BI, Excel, relational database design |
+| Simulation & networks | Discrete-event simulation, social network analysis |
+| Analytics & reporting | SQL, Power BI, Excel, AnyLogic, NetworkX, Gephi |
 
-## Let’s connect
-
-I’m always glad to connect with people working on **data science, healthcare AI, optimization, simulation, and analytical problem-solving**.
+---
 
 <div align="center">
 
-<a href="mailto:mobinahaghshenas73@gmail.com">Email me</a> ·
-<a href="https://www.linkedin.com/in/mobina-haghshenas/">Connect on LinkedIn</a> ·
-<a href="https://github.com/MobinaHaghshenas?tab=repositories">Explore my repositories</a>
+*Interested in building analytical, interpretable, and data-driven solutions to real-world problems.*
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Thank you for visiting my profile" width="100%">
-
-<sub>Thanks for stopping by — explore, learn, and build something meaningful.</sub>
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Profile footer banner" width="100%">
 
 </div>
