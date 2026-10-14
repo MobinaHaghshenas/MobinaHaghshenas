@@ -1,33 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
-<title id="title">Mobina Haghshenas — animated closing banner</title>
-<desc id="desc">Coded SVG footer with animated flowing data streams, traveling particles and a pulse that sweeps across the network.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+<title id="title">Thank you — animated closing banner</title>
+<desc id="desc">Minimal bright aqua closing banner with a sweeping animated gradient ribbon, moving sparkles and a single thank-you message.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050a16"/><stop offset=".55" stop-color="#0b1d30"/><stop offset="1" stop-color="#102d3d"/></linearGradient>
- <linearGradient id="flow"><stop stop-color="#34e2c2" stop-opacity="0"/><stop offset=".5" stop-color="#6df4db"/><stop offset="1" stop-color="#5bdfff" stop-opacity="0"/></linearGradient>
- <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#91f5e5" opacity=".15"/></pattern>
- <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
- <clipPath id="clip"><rect width="1200" height="190" rx="16"/></clipPath>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9fff7"/><stop offset=".55" stop-color="#d9f7ff"/><stop offset="1" stop-color="#d9eaff"/></linearGradient>
+ <linearGradient id="ribbon"><stop stop-color="#00bfa6"/><stop offset=".48" stop-color="#31c7ed"/><stop offset="1" stop-color="#7b61ff"/></linearGradient>
+ <clipPath id="clip"><rect width="1200" height="150" rx="20"/></clipPath>
 </defs>
 <g clip-path="url(#clip)">
-<rect width="1200" height="190" fill="url(#bg)"/><rect width="1200" height="190" fill="url(#dots)"/>
-<!-- flowing signal ribbons -->
-<g fill="none" stroke-linecap="round">
- <path d="M-40 145C120 30 245 180 390 96S640 23 770 95 1000 174 1240 35" stroke="#45e7ca" stroke-opacity=".25" stroke-width="1.5"/>
- <path d="M-40 163C130 55 245 198 400 116S640 43 780 115 1000 194 1240 55" stroke="#69dfff" stroke-opacity=".16" stroke-width="1"/>
- <path d="M-40 125C120 15 245 158 380 76S630 3 760 75 990 154 1240 15" stroke="#45e7ca" stroke-opacity=".15" stroke-width="1"/>
- <path d="M-40 145C120 30 245 180 390 96S640 23 770 95 1000 174 1240 35" stroke="url(#flow)" stroke-width="3" stroke-dasharray="22 680"><animate attributeName="stroke-dashoffset" from="700" to="0" dur="5.5s" repeatCount="indefinite"/></path>
-</g>
-<!-- nodes and travelling packets -->
-<g stroke="#64e9d2" stroke-opacity=".62" fill="none"><path d="M90 54L145 84L202 43L253 76L305 49"/><path d="M895 135L948 103L1000 142L1055 91L1112 120L1160 79"/></g>
-<g fill="#6ef1d8"><circle cx="90" cy="54" r="3"/><circle cx="145" cy="84" r="4"/><circle cx="202" cy="43" r="3"/><circle cx="253" cy="76" r="3"/><circle cx="305" cy="49" r="3"/><circle cx="895" cy="135" r="3"/><circle cx="948" cy="103" r="3"/><circle cx="1000" cy="142" r="4"/><circle cx="1055" cy="91" r="3"/><circle cx="1112" cy="120" r="3"/><circle cx="1160" cy="79" r="3"/></g>
-<circle cx="145" cy="84" r="12" fill="#39e1c2" opacity=".2" filter="url(#glow)"/><circle cx="1000" cy="142" r="12" fill="#39e1c2" opacity=".2" filter="url(#glow)"/>
-<circle r="4" fill="#ffffff"><animateMotion dur="6s" repeatCount="indefinite" path="M90 54 L145 84 L202 43 L253 76 L305 49"/></circle>
-<circle r="4" fill="#ffffff"><animateMotion dur="5s" repeatCount="indefinite" path="M895 135 L948 103 L1000 142 L1055 91 L1112 120 L1160 79"/></circle>
-<g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
- <text x="600" y="53" font-size="10" letter-spacing="4" fill="#74e9d7">END OF TRANSMISSION · KEEP EXPLORING</text>
- <text x="600" y="93" font-size="27" font-weight="700" letter-spacing="2" fill="#f1fbff">BUILD WITH CURIOSITY<tspan fill="#4ce0c5">.</tspan></text>
- <text x="600" y="122" font-size="12" letter-spacing="2.5" fill="#b5d0dd">QUESTION  ·  MODEL  ·  IMPROVE</text>
-</g>
-<path d="M32 18H54M32 18V40M1168 150H1146M1168 150V172" stroke="#59e5ce" stroke-width="1.4" stroke-opacity=".65" fill="none"/>
-<rect x=".7" y=".7" width="1198.6" height="188.6" rx="16" fill="none" stroke="#5fe7d0" stroke-opacity=".24"/>
+ <rect width="1200" height="150" fill="url(#bg)"/>
+ <path d="M-80 125C160 10 260 195 470 88S760 20 900 91 1110 152 1280 32" fill="none" stroke="url(#ribbon)" stroke-width="20" stroke-linecap="round" opacity=".16">
+  <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M-80 125C160 10 260 195 470 88S760 20 900 91 1110 152 1280 32;M-80 85C160 175 260 10 470 110S760 150 900 65 1110 20 1280 100;M-80 125C160 10 260 195 470 88S760 20 900 91 1110 152 1280 32"/>
+ </path>
+ <path d="M-50 142C170 45 280 170 480 88S760 45 930 103 1100 115 1250 54" fill="none" stroke="url(#ribbon)" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="16 18">
+  <animate attributeName="stroke-dashoffset" from="0" to="-170" dur="2.8s" repeatCount="indefinite"/>
+ </path>
+ <g fill="#00bfa6">
+  <circle cx="115" cy="44" r="4"><animate attributeName="cy" values="44;34;44" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="39" r="5"><animate attributeName="cy" values="39;52;39" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1015" cy="111" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="190" cy="110" r="3"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+ </g>
+ <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <text x="600" y="87" font-size="36" font-weight="800" letter-spacing="1.5" fill="#103b4b">THANK YOU<tspan fill="#00bfa6">!</tspan><animate attributeName="opacity" values="1;.72;1" dur="3s" repeatCount="indefinite"/></text>
+  <path d="M510 105H690" stroke="#00bfa6" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 180;180 0;0 180" dur="4s" repeatCount="indefinite"/></path>
+ </g>
+ <rect x=".75" y=".75" width="1198.5" height="148.5" rx="20" fill="none" stroke="#a8e5df" stroke-width="1.5"/>
 </g></svg>
