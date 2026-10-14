@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,30:102A43,65:087E8B,100:20E3B2&height=250&section=header&text=MOBINA%20HAGHSHENAS&fontSize=42&fontColor=E9FFFB&fontAlignY=42&desc=INDUSTRIAL%20ENGINEERING%20%2F%20DATA%20SCIENCE%20%2F%20AI&descSize=13&descAlignY=62&animation=twinkling&stroke=20E3B2&strokeWidth=1" width="100%" alt="Animated digital venom-style header for Mobina Haghshenas" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=550&color=20E3B2&center=true&vCenter=true&width=560&height=32&lines=%24+initializing+ideas...;[OK]+data+loaded;[RUN]+models+%7C+insights+%7C+decisions" alt="Animated terminal-style tagline" />
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" width="100%" alt="Custom animated midnight-blue and teal banner for Mobina Haghshenas, featuring data-network graphics" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=2AA198&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Exploring+AI+that+can+be+explained;Modeling+complex+systems+%26+optimizing+them;Interested+in+healthcare+AI+%26+medical+imaging" alt="Animated typing introduction" />
@@ -143,7 +141,5 @@ Business process modeling, relational databases, SQL, Power BI, financial-ratio 
 For conversations about **data science, healthcare AI, optimization, or analytics**:
 
 <a href="mailto:mobinahaghshenas73@gmail.com">mobinahaghshenas73@gmail.com</a>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:20E3B2,35:087E8B,70:102A43,100:050816&height=200&section=footer&text=END%20OF%20TRANSMISSION&fontSize=24&fontColor=E9FFFB&fontAlignY=60&animation=twinkling&stroke=20E3B2&strokeWidth=1&desc=KEEP%20ASKING%20BETTER%20QUESTIONS&descSize=12&descAlignY=80" width="100%" alt="Animated shark-style digital closing banner" />
 
 </div>
