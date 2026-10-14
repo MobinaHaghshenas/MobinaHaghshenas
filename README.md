@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" width="100%" alt="Custom animated midnight-blue and teal banner for Mobina Haghshenas, featuring data-network graphics" />
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" width="100%" alt="Custom light vector banner featuring interlocking optimization gears and a puzzle piece completing a machine-learning model" />
 
 
 <p>
@@ -143,6 +143,6 @@ For conversations about **data science, healthcare AI, optimization, or analytic
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" width="100%" alt="Custom midnight-blue and cyan vector closing banner" />
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" width="100%" alt="Matching light vector footer with connected gears and a completed puzzle-piece motif" />
 
 </div>
