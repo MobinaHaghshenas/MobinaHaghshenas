@@ -80,7 +80,7 @@ A curated selection of projects across AI, decision science, healthcare, and bus
 I’m happy to connect about analytics, machine learning, healthcare AI, optimization, or the projects shared here.
 
 <p align="center">
-  mobinahaghshenas73@gmail.com
+  <a href="mailto:mobinahaghshenas73@gmail.com">mobinahaghshenas73@gmail.com</a>
 </p>
 
 <div align="center">
