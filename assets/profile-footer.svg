@@ -1,25 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title desc">
-<title id="title">Thank you — minimal animated data stream</title>
-<desc id="desc">Clean pale mint closing banner with a dynamic flowing data line, moving particles, and a single thank-you message.</desc>
+<title id="title">Connected systems — thank you</title>
+<desc id="desc">A matching pale mint footer with interlocking gears and a completed puzzle-piece motif, closing with a message about connected systems.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfffd"/><stop offset=".55" stop-color="#e8faf7"/><stop offset="1" stop-color="#e8f3ff"/></linearGradient>
- <linearGradient id="signal"><stop stop-color="#00b99f"/><stop offset=".55" stop-color="#32bce8"/><stop offset="1" stop-color="#7a73f5"/></linearGradient>
- <clipPath id="clip"><rect width="1200" height="142" rx="20"/></clipPath>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fcfffd"/><stop offset=".6" stop-color="#effaf7"/><stop offset="1" stop-color="#eef5ff"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#18a58f"/><stop offset="1" stop-color="#5a91df"/></linearGradient>
+ <path id="gear" d="M-8-27H8L10-19Q17-16 20-10L28-12L34 1L27 7Q28 14 23 19L27 26L14 33L7 27Q0 29-7 26L-13 32L-25 23L-21 15Q-25 9-24 2L-31-3L-24-17L-15-14Q-12-19-8-27Z"/>
 </defs>
-<g clip-path="url(#clip)">
- <rect width="1200" height="142" fill="url(#bg)"/>
- <path d="M-30 115C115 115 140 36 255 57S405 137 520 91 685 21 790 68 980 133 1230 25" fill="none" stroke="#b7eee4" stroke-width="18" stroke-linecap="round" opacity=".45">
-  <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M-30 115C115 115 140 36 255 57S405 137 520 91 685 21 790 68 980 133 1230 25;M-30 88C115 45 140 120 255 92S405 25 520 64 685 130 790 88 980 35 1230 70;M-30 115C115 115 140 36 255 57S405 137 520 91 685 21 790 68 980 133 1230 25"/>
- </path>
- <path d="M-30 115C115 115 140 36 255 57S405 137 520 91 685 21 790 68 980 133 1230 25" fill="none" stroke="url(#signal)" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="18 14">
-  <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="2.6s" repeatCount="indefinite"/>
- </path>
- <circle r="6" fill="#fff" stroke="#00b99f" stroke-width="3"><animateMotion dur="6s" repeatCount="indefinite" path="M-30 115C115 115 140 36 255 57S405 137 520 91 685 21 790 68 980 133 1230 25"/></circle>
- <circle cx="110" cy="37" r="4" fill="#00b99f"><animate attributeName="cy" values="37;27;37" dur="2.2s" repeatCount="indefinite"/></circle>
- <circle cx="1085" cy="108" r="4" fill="#5d9fe8"><animate attributeName="cy" values="108;97;108" dur="2.5s" repeatCount="indefinite"/></circle>
- <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
-  <text x="600" y="70" font-size="35" font-weight="800" letter-spacing="1.6" fill="#174754">THANK YOU<tspan fill="#00b99f">.</tspan><animate attributeName="opacity" values="1;.78;1" dur="3s" repeatCount="indefinite"/></text>
-  <path d="M530 88H670" stroke="url(#signal)" stroke-width="3.5" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 140;140 0;0 140" dur="4s" repeatCount="indefinite"/></path>
+<g>
+ <rect width="1200" height="142" rx="20" fill="url(#bg)"/>
+ <g transform="translate(103 71)">
+  <g fill="#fff" stroke="#168f83" stroke-width="2.4"><use href="#gear" transform="scale(.78)"/></g>
+  <circle r="9" fill="#d9f5ed" stroke="#168f83" stroke-width="2"/>
+  <g transform="translate(47 26) scale(.57)" fill="#e1f1ff" stroke="#4f91c3" stroke-width="3"><use href="#gear" transform="rotate(18)"/></g>
+  <circle cx="47" cy="26" r="6" fill="#fff" stroke="#4f91c3" stroke-width="2"/>
+  <g fill="none" stroke="#8ccfc3" stroke-width="1.5"><path d="M-42-36L-60-47M-42 35L-58 43M67-28L83-39"/></g>
+  <circle cx="-60" cy="-47" r="3" fill="#18a58f"/><circle cx="-58" cy="43" r="3" fill="#18a58f"/><circle cx="83" cy="-39" r="3" fill="#5a91df"/>
  </g>
- <rect x=".75" y=".75" width="1198.5" height="140.5" rx="20" fill="none" stroke="#b8e7df" stroke-width="1.5"/>
+ <path d="M240 70H405" stroke="#9bd6cb" stroke-width="1.5" stroke-dasharray="3 6"/>
+ <circle cx="240" cy="70" r="4" fill="#18a58f"/><circle cx="405" cy="70" r="4" fill="#5a91df"/>
+ <g transform="translate(449 46)" stroke="#fff" stroke-width="2.5" stroke-linejoin="round">
+  <path d="M0 0H20C17-8 22-14 29-14S41-8 38 0H58V20C66 17 72 22 72 29S66 41 58 38V58H38C41 50 35 44 29 44S17 50 20 58H0V38C-8 41-14 35-14 29S-8 17 0 20Z" fill="#168f83">
+   <animate attributeName="opacity" values="1;.72;1" dur="3.4s" repeatCount="indefinite"/>
+  </path>
+  <path d="M82 10L96 10L96 24M91 19L96 24L101 19" fill="none" stroke="#4f91c3" stroke-width="2"/>
+ </g>
+ <g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="600" y="62" font-size="11" font-weight="700" letter-spacing="2.4" fill="#43877f">DATA · MODELS · SYSTEMS</text>
+  <text x="600" y="96" font-size="27" font-weight="800" letter-spacing="1.2" fill="#174754">BETTER TOGETHER<tspan fill="#18a58f">.</tspan></text>
+  <path d="M900 71H1040" stroke="#9bd6cb" stroke-width="1.5" stroke-dasharray="3 6"/>
+  <circle cx="900" cy="71" r="4" fill="#18a58f"/><circle cx="1040" cy="71" r="4" fill="#5a91df"/>
+  <g transform="translate(1090 71)" fill="none" stroke="url(#accent)" stroke-width="2">
+   <circle r="23"/><circle r="14"/><path d="M-8 0H8M0-8V8"/>
+  </g>
+  <text x="600" y="116" font-size="10" letter-spacing="1.2" fill="#6b9295">THANK YOU FOR STOPPING BY</text>
+ </g>
+ <rect x=".75" y=".75" width="1198.5" height="140.5" rx="20" fill="none" stroke="#c0e4dc" stroke-width="1.5"/>
 </g></svg>
