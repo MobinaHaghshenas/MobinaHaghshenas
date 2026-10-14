@@ -1,92 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">Mobina Haghshenas — data science, optimization and healthcare AI</title>
-<desc id="desc">A light, minimal technical illustration: interlocking gears represent optimization and connected systems, while a final puzzle piece completes a machine-learning model beside a medical cross. The introduction is integrated into the banner.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Mobina Haghshenas — data science and intelligent systems</title>
+<desc id="desc">A cohesive dark editorial illustration of a data analytics workspace: layered dashboards, a rising chart, a network visualization, and flowing data points. Subtle motion brings the charts to life.</desc>
 <defs>
- <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fcfffd"/><stop offset=".58" stop-color="#effaf7"/><stop offset="1" stop-color="#eef5ff"/></linearGradient>
- <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#087f79"/><stop offset="1" stop-color="#23b9a4"/></linearGradient>
- <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4b78a8"/><stop offset="1" stop-color="#8ab9e8"/></linearGradient>
- <linearGradient id="accent"><stop stop-color="#20b99f"/><stop offset="1" stop-color="#5a91df"/></linearGradient>
- <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#174754" flood-opacity=".10"/></filter>
- <clipPath id="clip"><rect width="1200" height="390" rx="22"/></clipPath>
- <!-- A clean eight-tooth gear outline, reused at two scales -->
- <path id="gear" d="M-12-42 L12-42 L15-30 Q23-27 28-23 L39-29 L51-8 L40 0 Q41 8 38 15 L49 24 L37 44 L24 38 Q17 43 10 44 L7 57 L-17 57 L-20 43 Q-28 40 -33 34 L-45 39 L-56 19 L-45 10 Q-47 2 -44-6 L-55-15 L-43-35 L-30-29 Q-23-34 -16-35 Z" transform="scale(.72)"/>
- <g id="puzzle">
-  <path d="M0 0H40C36-14 43-23 54-23S72-14 68 0H108V39C122 35 131 43 131 54S122 73 108 68V108H69C73 94 64 85 53 85S34 94 39 108H0V69C-14 73-23 64-23 53S-14 34 0 39Z"/>
- </g>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".58" stop-color="#102641"/><stop offset="1" stop-color="#172c48"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1a3553"/><stop offset="1" stop-color="#10253f"/></linearGradient>
+ <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#52f0ce"/><stop offset="1" stop-color="#25b8ce"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b4a2ff"/><stop offset="1" stop-color="#718bff"/></linearGradient>
+ <linearGradient id="coral" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb58f"/><stop offset="1" stop-color="#ff7e9e"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#28d9c0" stop-opacity=".2"/><stop offset="1" stop-color="#28d9c0" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#020915" flood-opacity=".35"/></filter>
+ <clipPath id="clip"><rect width="1200" height="360" rx="22"/></clipPath>
 </defs>
 <g clip-path="url(#clip)">
- <rect width="1200" height="390" fill="url(#paper)"/>
- <circle cx="232" cy="190" r="145" fill="#e0f5ef"/>
- <circle cx="232" cy="190" r="122" fill="none" stroke="#b9e6dc" stroke-dasharray="3 8" stroke-width="1.5"/>
- <circle cx="232" cy="190" r="99" fill="none" stroke="#c5e8e2" stroke-width="1.2"/>
- <!-- System connections: nodes link the mechanism to data and healthcare -->
- <g fill="none" stroke="#9bcfc8" stroke-width="1.6">
-  <path d="M95 104L147 130L180 95M280 83L318 119L350 100M100 268L145 245L177 286M292 278L326 247L357 271"/>
-  <path d="M147 130L155 176M318 119L300 160M145 245L174 220M326 247L300 216"/>
+ <rect width="1200" height="360" fill="url(#bg)"/>
+ <circle cx="280" cy="180" r="235" fill="url(#glow)"/>
+ <circle cx="1060" cy="20" r="220" fill="#273f68" opacity=".18"/>
+ <path d="M0 292C150 256 225 330 368 286S595 220 740 268 1005 322 1200 250V360H0Z" fill="#10213a" opacity=".65"/>
+ <g stroke="#6d94ba" stroke-opacity=".12" stroke-width="1">
+  <path d="M25 35H600M25 75H600M25 115H600M25 155H600M25 195H600M25 235H600M25 275H600M25 315H600"/>
+  <path d="M45 20V340M85 20V340M125 20V340M165 20V340M205 20V340M245 20V340M285 20V340M325 20V340M365 20V340M405 20V340M445 20V340M485 20V340M525 20V340M565 20V340"/>
  </g>
- <g fill="#fff" stroke="#67bfb1" stroke-width="2">
-  <circle cx="95" cy="104" r="6"/><circle cx="180" cy="95" r="5"/><circle cx="350" cy="100" r="6"/><circle cx="100" cy="268" r="6"/><circle cx="177" cy="286" r="5"/><circle cx="357" cy="271" r="6"/>
- </g>
- <!-- Interlocking gears: operations research, optimization, and systems -->
- <g transform="translate(187 160)" filter="url(#shadow)">
-  <g fill="#fff" stroke="#128c83" stroke-width="5" stroke-linejoin="round">
-   <use href="#gear" transform="rotate(0) scale(.91)"/>
-   <use href="#gear" transform="translate(0 0) scale(.91)" opacity="0"/>
+ <!-- Main analytics canvas -->
+ <g filter="url(#shadow)" transform="translate(54 48)">
+  <rect width="385" height="250" rx="15" fill="url(#panel)" stroke="#7898bb" stroke-opacity=".3"/>
+  <path d="M0 43H385" stroke="#7898bb" stroke-opacity=".23"/>
+  <circle cx="22" cy="22" r="4" fill="#ff829e"/><circle cx="37" cy="22" r="4" fill="#ffc48d"/><circle cx="52" cy="22" r="4" fill="#52e8ca"/>
+  <text x="20" y="66" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1.6" fill="#9bb6d3">MODEL PERFORMANCE</text>
+  <text x="20" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#f2f7ff">94.8<tspan font-size="13" fill="#54e7c9">%</tspan></text>
+  <text x="105" y="91" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" fill="#8ba7c5">validation accuracy</text>
+  <rect x="20" y="109" width="345" height="1" fill="#7898bb" opacity=".25"/>
+  <g stroke="#7e9cba" stroke-opacity=".17" stroke-width="1">
+   <path d="M25 142H355M25 174H355M25 206H355"/>
+   <path d="M25 126V220M91 126V220M157 126V220M223 126V220M289 126V220M355 126V220"/>
   </g>
-  <circle r="24" fill="#e4f7f2" stroke="#128c83" stroke-width="3"/>
-  <circle r="7" fill="#128c83"/>
-  <path d="M-12-4L-4-12L5-8L13 1L6 11L-5 12L-13 4Z" fill="#d1f1e8" stroke="#128c83" stroke-width="1.5"/>
+  <path d="M25 204C53 199 61 181 88 187S125 164 156 175 196 145 223 157 265 128 290 140 327 117 355 123" fill="none" stroke="#52e8ca" stroke-width="3" stroke-linecap="round" stroke-dasharray="440" stroke-dashoffset="440">
+   <animate attributeName="stroke-dashoffset" from="440" to="0" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M25 204C53 199 61 181 88 187S125 164 156 175 196 145 223 157 265 128 290 140 327 117 355 123L355 220H25Z" fill="#52e8ca" opacity=".06"/>
+  <circle r="5" fill="#52e8ca" stroke="#10253f" stroke-width="2">
+   <animateMotion dur="3.2s" repeatCount="indefinite" path="M25 204C53 199 61 181 88 187S125 164 156 175 196 145 223 157 265 128 290 140 327 117 355 123"/>
+  </circle>
+  <text x="25" y="237" font-family="Consolas,monospace" font-size="9" fill="#7f9dbd">EPOCH 01 — 40</text>
  </g>
- <g transform="translate(286 226) scale(.69)" filter="url(#shadow)">
-  <g fill="#dff4ef" stroke="#238fa0" stroke-width="5" stroke-linejoin="round"><use href="#gear" transform="rotate(18)"/></g>
-  <circle r="23" fill="#f7fffc" stroke="#238fa0" stroke-width="3"/>
-  <circle r="7" fill="#238fa0"/>
- </g>
- <!-- Completed puzzle: three fitted pieces, fourth piece visibly arriving into place -->
- <g transform="translate(118 235)">
-  <rect x="-13" y="-15" width="119" height="119" rx="15" fill="#fafffd" stroke="#b4ded6" stroke-width="1.5"/>
-  <g transform="translate(0 0)" stroke="#fff" stroke-width="3" stroke-linejoin="round">
-   <path d="M0 0H40C36-14 43-23 54-23S72-14 68 0H108V39C122 35 131 43 131 54S122 73 108 68V108H69C73 94 64 85 53 85S34 94 39 108H0V69C-14 73-23 64-23 53S-14 34 0 39Z" fill="#168f83" transform="translate(0 0) scale(.46)"/>
-   <path d="M0 0H40C36-14 43-23 54-23S72-14 68 0H108V39C122 35 131 43 131 54S122 73 108 68V108H69C73 94 64 85 53 85S34 94 39 108H0V69C-14 73-23 64-23 53S-14 34 0 39Z" fill="#5c9ed2" transform="translate(55 0) scale(.46)"/>
-   <path d="M0 0H40C36-14 43-23 54-23S72-14 68 0H108V39C122 35 131 43 131 54S122 73 108 68V108H69C73 94 64 85 53 85S34 94 39 108H0V69C-14 73-23 64-23 53S-14 34 0 39Z" fill="#a6d9cd" transform="translate(0 55) scale(.46)"/>
+ <!-- Floating network / feature map card -->
+ <g filter="url(#shadow)" transform="translate(310 155)">
+  <rect width="215" height="143" rx="13" fill="#172f4b" stroke="#8ba9ca" stroke-opacity=".35"/>
+  <text x="16" y="23" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.3" fill="#a8bfd8">FEATURE SPACE</text>
+  <g stroke="#718fb1" stroke-opacity=".5" stroke-width="1.2">
+   <path d="M33 67L74 49L105 79L147 45L183 76M33 67L53 108L105 79L119 116L183 76M74 49L84 103L147 45L160 111L183 76M53 108L84 103L119 116L160 111"/>
   </g>
-  <rect x="43" y="45" width="46" height="46" rx="8" fill="#f4fbf8" stroke="#77c9b8" stroke-width="1.5" stroke-dasharray="4 4"/>
-  <g transform="translate(65 68)">
-   <path d="M-17-13H-5C-8-20-3-26 4-26S16-20 13-13H25V-2C32-5 38 0 38 7S32 19 25 16V28H13C16 21 10 16 4 16S-8 21-5 28H-17V16C-24 19-30 13-30 7S-24-5-17-2Z" fill="url(#accent)" stroke="#fff" stroke-width="2">
-    <animateTransform attributeName="transform" type="translate" values="0 -7;0 0;0 0" keyTimes="0;.55;1" dur="2.8s" repeatCount="indefinite"/>
-   </path>
+  <g>
+   <circle cx="33" cy="67" r="5" fill="#56e8ca"/><circle cx="74" cy="49" r="4" fill="#9e9bff"/><circle cx="105" cy="79" r="6" fill="#ff9c9f"/><circle cx="147" cy="45" r="5" fill="#56e8ca"/><circle cx="183" cy="76" r="4" fill="#9e9bff"/><circle cx="53" cy="108" r="4" fill="#9e9bff"/><circle cx="84" cy="103" r="5" fill="#56e8ca"/><circle cx="119" cy="116" r="4" fill="#ff9c9f"/><circle cx="160" cy="111" r="5" fill="#56e8ca"/>
+   <circle cx="105" cy="79" r="11" fill="none" stroke="#ff9c9f" stroke-opacity=".6"><animate attributeName="r" values="8;17;8" dur="3s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".65;0;.65" dur="3s" repeatCount="indefinite"/></circle>
   </g>
-  <path d="M85 21L99 21L99 35" fill="none" stroke="#168f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M94 30L99 35L104 30" fill="none" stroke="#168f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
  </g>
- <!-- Small clinical marker: cross inside a data node, not a generic decoration -->
- <g transform="translate(348 151)">
-  <circle r="23" fill="#fff" stroke="#b4ded6" stroke-width="1.5"/>
-  <path d="M-4-12H4V-4H12V4H4V12H-4V4H-12V-4H-4Z" fill="#168f83"/>
-  <circle r="30" fill="none" stroke="#9bd9ce" stroke-dasharray="2 5"/>
+ <!-- Compact vertical data visualization -->
+ <g filter="url(#shadow)" transform="translate(463 72)">
+  <rect width="112" height="121" rx="12" fill="#172f4b" stroke="#8ba9ca" stroke-opacity=".3"/>
+  <text x="13" y="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1" fill="#a8bfd8">INSIGHTS</text>
+  <g transform="translate(14 39)">
+   <rect x="0" y="44" width="12" height="23" rx="3" fill="#728cff"><animate attributeName="height" values="23;34;23" dur="3s" repeatCount="indefinite"/><animate attributeName="y" values="44;33;44" dur="3s" repeatCount="indefinite"/></rect>
+   <rect x="19" y="30" width="12" height="37" rx="3" fill="#8f9dff"><animate attributeName="height" values="37;25;37" dur="2.7s" repeatCount="indefinite"/><animate attributeName="y" values="30;42;30" dur="2.7s" repeatCount="indefinite"/></rect>
+   <rect x="38" y="19" width="12" height="48" rx="3" fill="#52e8ca"><animate attributeName="height" values="48;56;48" dur="3.4s" repeatCount="indefinite"/><animate attributeName="y" values="19;11;19" dur="3.4s" repeatCount="indefinite"/></rect>
+   <rect x="57" y="7" width="12" height="60" rx="3" fill="#ff9c9f"><animate attributeName="height" values="60;48;60" dur="3.1s" repeatCount="indefinite"/><animate attributeName="y" values="7;19;7" dur="3.1s" repeatCount="indefinite"/></rect>
+   <path d="M-1 68H80" stroke="#819cbb" stroke-opacity=".35"/>
+  </g>
  </g>
- <!-- Typography -->
+ <!-- Flowing data particles connect the illustration into one scene -->
+ <g fill="url(#teal)">
+  <circle cx="80" cy="24" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="510" cy="38" r="3"><animate attributeName="cy" values="38;49;38" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="545" cy="246" r="2.5"><animate attributeName="cx" values="545;558;545" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="35" cy="306" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+ </g>
+ <path d="M526 247C556 236 562 211 582 202" fill="none" stroke="#52e8ca" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="3 7"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="2s" repeatCount="indefinite"/></path>
+ <!-- Typography: generous breathing room and a clear hierarchy -->
  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <rect x="465" y="48" width="253" height="27" rx="13.5" fill="#fff" stroke="#c1e5dc"/>
-  <circle cx="482" cy="61.5" r="4" fill="#18a58f"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
-  <text x="495" y="65" font-size="10" font-weight="700" letter-spacing="1.55" fill="#287b76">DATA SCIENCE / HEALTHCARE AI</text>
-  <text x="460" y="128" font-size="47" font-weight="800" letter-spacing="-1.7" fill="#174754">MOBINA</text>
-  <text x="460" y="179" font-size="47" font-weight="800" letter-spacing="-1.8" fill="#174754">HAGHSHENAS<tspan fill="#16a58f">.</tspan></text>
-  <text x="464" y="211" font-size="15" font-weight="600" fill="#4a6c76">Connecting data, models, and real-world decisions.</text>
-  <path d="M464 235H1108" stroke="#c4e5df" stroke-width="1.3"/>
-  <circle cx="468" cy="263" r="3" fill="#18a58f"/>
-  <g font-family="JetBrains Mono,Consolas,monospace" font-size="13" fill="#197c77">
-   <text x="481" y="268">Turning data into decisions<animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;.22;.5;.78;1" dur="11.2s" repeatCount="indefinite"/></text>
-   <text x="481" y="268" opacity="0">Exploring AI that can be explained<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.22;.24;.48;1" dur="11.2s" repeatCount="indefinite"/></text>
-   <text x="481" y="268" opacity="0">Modeling complex systems &amp; optimizing them<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.49;.51;.73;1" dur="11.2s" repeatCount="indefinite"/></text>
-   <text x="481" y="268" opacity="0">Interested in healthcare AI &amp; medical imaging<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.75;.77;1" dur="11.2s" repeatCount="indefinite"/></text>
+  <rect x="645" y="65" width="278" height="28" rx="14" fill="#1b3854" stroke="#4c718e" stroke-opacity=".65"/>
+  <circle cx="662" cy="79" r="4" fill="#52e8ca"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="675" y="83" font-size="10" font-weight="700" letter-spacing="1.8" fill="#a8c5df">DATA SCIENCE · AI · OPTIMIZATION</text>
+  <text x="642" y="151" font-size="45" font-weight="800" letter-spacing="-1.8" fill="#f4f8ff">MOBINA</text>
+  <text x="642" y="201" font-size="45" font-weight="800" letter-spacing="-1.8" fill="#f4f8ff">HAGHSHENAS<tspan fill="#52e8ca">.</tspan></text>
+  <text x="646" y="235" font-size="15" fill="#b6c8dc">Turning complex data into meaningful decisions.</text>
+  <path d="M646 260H1136" stroke="#547491" stroke-opacity=".55"/>
+  <g font-size="10" font-weight="700" letter-spacing="1.3">
+   <text x="646" y="286" fill="#65e8ce">MACHINE LEARNING</text>
+   <circle cx="786" cy="282" r="2" fill="#ff9c9f"/>
+   <text x="800" y="286" fill="#c0b7ff">HEALTHCARE AI</text>
+   <circle cx="917" cy="282" r="2" fill="#ff9c9f"/>
+   <text x="931" y="286" fill="#ffb99b">SYSTEMS THINKING</text>
   </g>
-  <rect x="481" y="281" width="3" height="15" rx="1.5" fill="#18a58f"><animate attributeName="x" values="481;690;481" dur="4.5s" repeatCount="indefinite"/></rect>
-  <g font-size="10" font-weight="700" letter-spacing="1.6" fill="#287b76">
-   <text x="465" y="329">OPTIMIZATION</text><circle cx="579" cy="325" r="2" fill="#18a58f"/>
-   <text x="593" y="329">MACHINE LEARNING</text><circle cx="735" cy="325" r="2" fill="#18a58f"/>
-   <text x="749" y="329">MEDICAL IMAGING</text>
-  </g>
+  <text x="646" y="319" font-family="Consolas,monospace" font-size="10" letter-spacing=".4" fill="#6f8da9">ANALYZE  /  MODEL  /  OPTIMIZE</text>
  </g>
- <rect x=".75" y=".75" width="1198.5" height="388.5" rx="22" fill="none" stroke="#c0e4dc" stroke-width="1.5"/>
+ <rect x=".75" y=".75" width="1198.5" height="358.5" rx="22" fill="none" stroke="#476581" stroke-opacity=".65" stroke-width="1.5"/>
 </g></svg>
