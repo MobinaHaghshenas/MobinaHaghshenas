@@ -2,9 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" width="100%" alt="Custom animated midnight-blue and teal banner for Mobina Haghshenas, featuring data-network graphics" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=2AA198&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Exploring+AI+that+can+be+explained;Modeling+complex+systems+%26+optimizing+them;Interested+in+healthcare+AI+%26+medical+imaging" alt="Animated typing introduction" />
-</a>
 
 <p>
   <a href="mailto:mobinahaghshenas73@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-20B2AA?style=for-the-badge&logo=gmail&logoColor=061522" alt="Email" /></a>
