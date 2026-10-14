@@ -1,78 +1,85 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" alt="Mobina Haghshenas profile banner" width="100%">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" alt="Animated header banner — Mobina Haghshenas" width="100%">
 
-# Hi, I'm Mobina 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C6EE6&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Exploring+AI+that+can+be+explained;Modeling+complex+systems+%26+optimizing+them;Interested+in+healthcare+AI+%26+medical+imaging." alt="Animated typing introduction"></a>
 
-Industrial Engineering · Data Analytics · AI · Optimization
-
-I work on data-driven problem solving, machine learning, and optimization, with interests spanning healthcare analytics, explainable AI, and operational decision-making.
-
-[Email](mailto:mobinahaghshenas73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mobina-haghshenas/) · [GitHub Repositories](https://github.com/MobinaHaghshenas?tab=repositories)
+[Email](mailto:mobinahaghshenas73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mobina-haghshenas/) · [GitHub repositories](https://github.com/MobinaHaghshenas?tab=repositories)
 
 </div>
 
 ---
 
-## About
+## ◈ About me
 
-My background is in Industrial Engineering, and I’m interested in using analytical and computational methods to understand complex systems and support better decisions.
+### Data-minded. Systems-oriented. Curious by design.
 
-My projects bring together machine learning, data analysis, mathematical optimization, simulation, and social network analysis. I’m particularly interested in explainable AI and deep learning for medical image analysis.
+I have a background in **Industrial Engineering** and enjoy connecting analytical thinking with computational methods to understand complex problems and support better decisions. My work and interests span **machine learning, mathematical optimization, simulation, data analytics, and social network analysis**. I am especially interested in explainable AI and deep learning for medical image analysis.
 
-## Featured Projects
+- 🧠 **Curiosity:** interpretable AI and predictive modeling
+- 🏥 **Research direction:** healthcare analytics and medical imaging
+- ⚙️ **Problem-solving lens:** optimization, simulation, and decision support
+- 🧪 **Working style:** model the problem, test the method, learn from the results
 
-### AI, Machine Learning & Research
+### Current toolkit
 
-- [Spectral Clustering for New Product Development Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)  
-  Applies unsupervised learning to group new-product-development risks, using clustering assessment, cluster selection, and internal validation.
-
-- [Machine Learning Projects](https://github.com/MobinaHaghshenas/machine-learning-projects)  
-  A portfolio of supervised and unsupervised learning work, including classification, regression, anomaly detection, and customer segmentation.
-
-- [Social Network Analysis of Nutrigenomics Research](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)  
-  Studies scientific collaboration using co-authorship networks, network measures, centrality analysis, and community detection.
-
-- [Artificial Intelligence Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)  
-  Python implementations exploring search and optimization, including Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
-
-### Optimization, Simulation & Decision Support
-
-- [Ambulance Station Location & Allocation Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)  
-  A mixed-integer optimization model for emergency-service station locations, ambulance allocation, and coverage decisions.
-
-- [MRI Department Simulation using AnyLogic](https://github.com/MobinaHaghshenas/MRI-department-simulation)  
-  A discrete-event simulation of patient flow, examination and reporting workflows, resource utilization, and personnel planning in an MRI department.
-
-- [Business Analytics Portfolio](https://github.com/MobinaHaghshenas/business-analytics)  
-  Academic projects in business process modeling, relational database design, SQL, Power BI, financial-ratio analysis, and multi-criteria decision-making.
-
-## Research Interests
-
-- Explainable Artificial Intelligence (XAI)
-- Deep Learning and Transfer Learning
-- Medical Image Analysis
-- Data Analytics and Predictive Modeling
-- Mathematical Optimization and Decision Support
-- Simulation and Complex Systems
-
-## Technical Areas
-
-| Area | Methods and tools |
-|---|---|
-| Programming & data | Python, data preprocessing, exploratory analysis |
-| Machine learning | Classification, regression, clustering, anomaly detection |
-| AI & optimization | Minimax, Alpha–Beta Pruning, Genetic Algorithms, Simulated Annealing |
-| Operations research | Mixed-integer optimization, facility location, resource allocation |
-| Simulation & networks | Discrete-event simulation, social network analysis |
-| Analytics & reporting | SQL, Power BI, Excel, AnyLogic, NetworkX, Gephi |
+Python · Git · GitHub · SQL
 
 ---
 
+## ◈ Selected work
+
+Explore a few projects across AI, research, operations research, and simulation.
+
+### 🧬 AI & Machine Learning
+
+**[Spectral Clustering · Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)**  
+Unsupervised learning to group new-product-development risks, with cluster selection and internal validation.
+
+**[Machine Learning Portfolio](https://github.com/MobinaHaghshenas/machine-learning-projects)**  
+Classification, regression, anomaly detection, and customer segmentation across applied projects.
+
+**[AI Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)**  
+Python implementations featuring Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
+
+### 🏥 Systems & Decision Science
+
+**[Ambulance Location Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)**  
+A mixed-integer model for emergency station locations, ambulance allocation, and service coverage.
+
+**[MRI Department Simulation](https://github.com/MobinaHaghshenas/MRI-department-simulation)**  
+Discrete-event simulation of patient flow, reporting, resource use, and personnel planning.
+
+**[Nutrigenomics Network Analysis](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)**  
+Co-authorship networks explored through centrality, network measures, and community detection.
+
+### 📊 Business Analytics
+
+**[Business Analytics Portfolio →](https://github.com/MobinaHaghshenas/business-analytics)**  
+Business process modeling, relational databases, SQL, Power BI, financial-ratio analysis, and multi-criteria decision-making.
+
+---
+
+## ◈ Research compass
+
+| Explainable AI | Healthcare & Medical Imaging | Predictive Analytics |
+|:---:|:---:|:---:|
+| Making model behavior more interpretable | Deep learning and transfer learning | Finding useful patterns in data |
+
+| Mathematical Optimization | Simulation | Network Science |
+|:---:|:---:|:---:|
+| Resource allocation and better decisions | Understanding complex workflows | Mapping collaboration and connections |
+
+---
+
+## ◈ Let's connect
+
+If you're interested in **data science, healthcare AI, optimization, or analytical problem-solving**, I'd be happy to connect.
+
+[ mobinahaghshenas73@gmail.com ](mailto:mobinahaghshenas73@gmail.com)
+
 <div align="center">
 
-*Interested in building analytical, interpretable, and data-driven solutions to real-world problems.*
-
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Profile footer banner" width="100%">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Decorative footer banner" width="100%">
 
 </div>
