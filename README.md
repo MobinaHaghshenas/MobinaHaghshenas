@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I’m an **Industrial Engineering graduate** interested in using data and analytical methods to support better decisions. My work and learning focus on **data analytics, machine learning, mathematical optimization, and simulation**—from exploring patterns in datasets to modeling real-world systems and comparing possible solutions.
+I’m an **Industrial Engineering** interested in using data and analytical methods to support better decisions. My work and learning focus on **data analytics, machine learning, mathematical optimization, and simulation**—from exploring patterns in datasets to modeling real-world systems and comparing possible solutions.
 
 I’m particularly interested in **explainable AI** and the use of deep learning in **healthcare and medical imaging**. I value clear problem formulation, thoughtful method selection, and communicating what an analysis can—and cannot—tell us.
 
@@ -58,7 +58,7 @@ A curated selection of projects across AI, decision science, healthcare, and bus
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
----
+
 
 ## 🔎 Areas I’m exploring
 
@@ -81,7 +81,7 @@ I’m happy to connect about analytics, machine learning, healthcare AI, optimiz
 
 <p>
   <a href="mailto:mobinahaghshenas73@gmail.com"><img src="https://img.shields.io/badge/Email-mobinahaghshenas73%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Mobina"></a>
-  <a href="https://www.linkedin.com/in/mobina-haghshenas/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+  
 </p>
 
 <div align="center">
