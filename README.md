@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" alt="Animated header banner — Mobina Haghshenas" width="100%">
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-banner.svg" alt="Mobina Haghshenas — analytics and AI banner" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C6EE6&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Exploring+AI+that+can+be+explained;Modeling+complex+systems+%26+optimizing+them;Interested+in+healthcare+AI+%26+medical+imaging." alt="Animated typing introduction"></a>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C6EE6&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Exploring+AI+that+can+be+explained;Modeling+complex+systems+%26+optimizing+them;Interested+in+healthcare+AI+%26+medical+imaging." alt="Animated introduction">
+</a>
 
-[Email](mailto:mobinahaghshenas73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mobina-haghshenas/) · [GitHub repositories](https://github.com/MobinaHaghshenas?tab=repositories)
+<p>
+  <a href="mailto:mobinahaghshenas73@gmail.com"><img src="https://img.shields.io/badge/Email-7C6EE6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mobina-haghshenas/"><img src="https://img.shields.io/badge/LinkedIn-7C6EE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/MobinaHaghshenas?tab=repositories"><img src="https://img.shields.io/badge/Repositories-7C6EE6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"></a>
+</p>
 
 </div>
 
@@ -12,74 +18,77 @@
 
 ## ◈ About me
 
-### Data-minded. Systems-oriented. Curious by design.
+I have a background in **Industrial Engineering** and enjoy working on problems where data, analytical thinking, and practical decisions meet. My interests include **machine learning, data analytics, optimization, and simulation**. I’m also interested in how AI can be made more understandable and how deep learning can be applied to healthcare, especially medical imaging.
 
-I have a background in **Industrial Engineering** and enjoy connecting analytical thinking with computational methods to understand complex problems and support better decisions. My work and interests span **machine learning, mathematical optimization, simulation, data analytics, and social network analysis**. I am especially interested in explainable AI and deep learning for medical image analysis.
+I like learning by building projects, testing different approaches, and understanding why a method works—not just whether it works.
 
-- 🧠 **Curiosity:** interpretable AI and predictive modeling
-- 🏥 **Research direction:** healthcare analytics and medical imaging
-- ⚙️ **Problem-solving lens:** optimization, simulation, and decision support
-- 🧪 **Working style:** model the problem, test the method, learn from the results
+## ◈ Tools I use
 
-### Current toolkit
+<div align="center">
 
-Python · Git · GitHub · SQL
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,mysql&theme=light)](https://skillicons.dev)
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Data%20Querying-7C6EE6?style=flat-square&logo=databricks&logoColor=white" alt="SQL">
+</p>
 
 ---
 
 ## ◈ Selected work
 
-Explore a few projects across AI, research, operations research, and simulation.
+A selection of projects across machine learning, decision science, simulation, and business analytics.
 
 ### 🧬 AI & Machine Learning
 
-**[Spectral Clustering · Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)**  
-Unsupervised learning to group new-product-development risks, with cluster selection and internal validation.
-
-**[Machine Learning Portfolio](https://github.com/MobinaHaghshenas/machine-learning-projects)**  
-Classification, regression, anomaly detection, and customer segmentation across applied projects.
-
-**[AI Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)**  
-Python implementations featuring Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
+| Project | What I explored |
+|---|---|
+| [**Spectral Clustering · Risk Analysis**](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis) | Grouping new-product-development risks with unsupervised learning, cluster selection, and internal validation. |
+| [**Machine Learning Portfolio**](https://github.com/MobinaHaghshenas/machine-learning-projects) | Applied classification, regression, anomaly detection, and customer segmentation projects. |
+| [**AI Algorithms**](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms) | Python implementations of Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing. |
 
 ### 🏥 Systems & Decision Science
 
-**[Ambulance Location Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)**  
-A mixed-integer model for emergency station locations, ambulance allocation, and service coverage.
-
-**[MRI Department Simulation](https://github.com/MobinaHaghshenas/MRI-department-simulation)**  
-Discrete-event simulation of patient flow, reporting, resource use, and personnel planning.
-
-**[Nutrigenomics Network Analysis](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)**  
-Co-authorship networks explored through centrality, network measures, and community detection.
+| Project | What I explored |
+|---|---|
+| [**Ambulance Location Optimization**](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization) | A mixed-integer optimization model for station locations, ambulance allocation, and service coverage. |
+| [**MRI Department Simulation**](https://github.com/MobinaHaghshenas/MRI-department-simulation) | Discrete-event simulation of patient flow, reporting, resource use, and personnel planning. |
+| [**Nutrigenomics Network Analysis**](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics) | Exploring co-authorship networks with centrality measures and community detection. |
 
 ### 📊 Business Analytics
 
-**[Business Analytics Portfolio →](https://github.com/MobinaHaghshenas/business-analytics)**  
-Business process modeling, relational databases, SQL, Power BI, financial-ratio analysis, and multi-criteria decision-making.
+| Project | What I explored |
+|---|---|
+| [**Business Analytics Portfolio**](https://github.com/MobinaHaghshenas/business-analytics) | Business process modeling, relational databases, SQL, Power BI, financial-ratio analysis, and multi-criteria decision-making. |
 
 ---
 
-## ◈ Research compass
+## ◈ Research interests
 
-| Explainable AI | Healthcare & Medical Imaging | Predictive Analytics |
-|:---:|:---:|:---:|
-| Making model behavior more interpretable | Deep learning and transfer learning | Finding useful patterns in data |
-
-| Mathematical Optimization | Simulation | Network Science |
-|:---:|:---:|:---:|
-| Resource allocation and better decisions | Understanding complex workflows | Mapping collaboration and connections |
+| Area | Topics |
+|---|---|
+| **Explainable AI** | Understanding and interpreting model behavior |
+| **Healthcare & Medical Imaging** | Deep learning and transfer learning |
+| **Predictive Analytics** | Finding useful patterns in data |
+| **Mathematical Optimization** | Resource allocation and decision support |
+| **Simulation** | Exploring complex systems and workflows |
+| **Network Science** | Studying relationships, collaboration, and communities |
 
 ---
 
-## ◈ Let's connect
-
-If you're interested in **data science, healthcare AI, optimization, or analytical problem-solving**, I'd be happy to connect.
-
-[ mobinahaghshenas73@gmail.com ](mailto:mobinahaghshenas73@gmail.com)
+## ◈ Contact
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Decorative footer banner" width="100%">
+If you’d like to talk about data science, healthcare AI, optimization, or one of my projects, feel free to reach out.
+
+<a href="mailto:mobinahaghshenas73@gmail.com">
+  <img src="https://img.shields.io/badge/mobinahaghshenas73%40gmail.com-7C6EE6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mobina">
+</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/profile-footer.svg" alt="Matching lavender footer banner" width="100%">
 
 </div>
