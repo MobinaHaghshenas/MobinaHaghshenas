@@ -30,26 +30,25 @@ A curated selection of projects across AI, decision science, healthcare, and bus
 
 ### 🤖 AI & Machine Learning
 
-- **[Machine Learning Portfolio](https://github.com/MobinaHaghshenas/machine-learning-projects)**  
-  Classification, regression, anomaly detection, and customer segmentation.
-- **[AI Algorithms](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms)**  
-  Search and optimization approaches, including Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing.
-- **[Spectral Clustering · Risk Analysis](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis)**  
-  Using unsupervised learning to group new-product-development risks and assess cluster quality.
+| Project | Focus |
+|---|---|
+| [**Machine Learning Portfolio**](https://github.com/MobinaHaghshenas/machine-learning-projects) | Classification, regression, anomaly detection, and customer segmentation. |
+| [**AI Algorithms**](https://github.com/MobinaHaghshenas/artificial-intelligence-algorithms) | Search and optimization approaches, including Minimax with Alpha–Beta Pruning, Genetic Algorithms, and Simulated Annealing. |
+| [**Spectral Clustering · Risk Analysis**](https://github.com/MobinaHaghshenas/spectral-clustering-risk-analysis) | Using unsupervised learning to group new-product-development risks and assess cluster quality. |
 
 ### ⚙️ Optimization & Simulation
 
-- **[Ambulance Location Optimization](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization)**  
-  Modeling ambulance-station locations, allocation, and service coverage as a decision problem.
-- **[MRI Department Simulation](https://github.com/MobinaHaghshenas/MRI-department-simulation)**  
-  Simulating patient flow and exploring resource use and personnel planning in an MRI department.
+| Project | Focus |
+|---|---|
+| [**Ambulance Location Optimization**](https://github.com/MobinaHaghshenas/ambulance-station-location-optimization) | Modeling ambulance-station locations, allocation, and service coverage as a decision problem. |
+| [**MRI Department Simulation**](https://github.com/MobinaHaghshenas/MRI-department-simulation) | Simulating patient flow and exploring resource use and personnel planning in an MRI department. |
 
 ### 📊 Data, Networks & Business Analytics
 
-- **[Nutrigenomics Network Analysis](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics)**  
-  Examining co-authorship networks using centrality measures and community detection.
-- **[Business Analytics Portfolio](https://github.com/MobinaHaghshenas/business-analytics)**  
-  Exploring business processes, relational data, financial ratios, and multi-criteria decision-making.
+| Project | Focus |
+|---|---|
+| [**Nutrigenomics Network Analysis**](https://github.com/MobinaHaghshenas/social-network-analysis-nutrigenomics) | Examining co-authorship networks using centrality measures and community detection. |
+| [**Business Analytics Portfolio**](https://github.com/MobinaHaghshenas/business-analytics) | Exploring business processes, relational data, financial ratios, and multi-criteria decision-making. |
 
 ### 🧰 Tools used across projects
 
