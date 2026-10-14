@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,45:123D56,100:2AA198&height=210&section=header&text=Mobina%20Haghshenas&fontSize=46&fontColor=F4FBFF&fontAlignY=40&animation=twinkling&desc=Industrial%20Engineering%20%2F%20Data%20%2F%20AI%20%2F%20Optimization&descSize=14&descAlignY=61" width="100%" alt="Animated Mobina Haghshenas banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061522,25:0B2638,60:145365,100:20B2AA&height=250&section=header&text=MOBINA%20HAGHSHENAS&fontSize=43&fontColor=F2FBFF&fontAlignY=38&fontAlign=50&stroke=2AA198&strokeWidth=1&animation=twinkling&desc=INDUSTRIAL%20ENGINEERING%20%E2%80%A2%20DATA%20%E2%80%A2%20AI%20%E2%80%A2%20OPTIMIZATION&descSize=13&descAlignY=59" width="100%" alt="Animated neon wave banner with Mobina Haghshenas name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=73E0D3&center=true&vCenter=true&width=520&height=28&lines=%3C+DATA+%7C+MODELS+%7C+DECISIONS+%2F%3E" alt="Animated data and decision tagline" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=2AA198&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Exploring+AI+that+can+be+explained;Modeling+complex+systems+%26+optimizing+them;Interested+in+healthcare+AI+%26+medical+imaging" alt="Animated typing introduction" />
@@ -142,6 +144,6 @@ For conversations about **data science, healthcare AI, optimization, or analytic
 
 <a href="mailto:mobinahaghshenas73@gmail.com">mobinahaghshenas73@gmail.com</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AA198,55:123D56,100:071A2C&height=145&section=footer&text=Thanks%20for%20stopping%20by&fontSize=22&fontColor=F4FBFF&fontAlignY=65&animation=fadeIn" width="100%" alt="Animated closing banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,35:145365,70:0B2638,100:061522&height=190&section=footer&text=THANKS%20FOR%20EXPLORING&fontSize=25&fontColor=F2FBFF&fontAlignY=58&stroke=2AA198&strokeWidth=1&animation=twinkling&desc=Curiosity%20in%20%E2%80%A2%20Ideas%20out&descSize=13&descAlignY=78" width="100%" alt="Animated teal and navy closing banner" />
 
 </div>
