@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">About Mobina Haghshenas</title>
+  <desc id="desc">Industrial Engineering graduate interested in data analytics, machine learning, mathematical optimization, simulation, explainable AI, healthcare, and medical imaging.</desc>
+  <rect width="1200" height="390" fill="#ffffff"/>
+  <image href="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/web-471952966.webp" x="0" y="0" width="1200" height="390" preserveAspectRatio="xMidYMid slice" opacity="0.18"/>
+  <text x="42" y="52" fill="#28243d" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">About me</text>
+  <text x="42" y="102" fill="#28243d" font-family="Arial, Helvetica, sans-serif" font-size="20">I’m an Industrial Engineering graduate interested in using data and analytical methods to support better decisions.</text>
+  <text x="42" y="137" fill="#28243d" font-family="Arial, Helvetica, sans-serif" font-size="20">My work and learning focus on data analytics, machine learning, mathematical optimization, and simulation—from</text>
+  <text x="42" y="172" fill="#28243d" font-family="Arial, Helvetica, sans-serif" font-size="20">exploring patterns in datasets to modeling real-world systems and comparing possible solutions.</text>
+  <text x="42" y="227" fill="#28243d" font-family="Arial, Helvetica, sans-serif" font-size="20">I’m particularly interested in explainable AI and the use of deep learning in healthcare and medical imaging.</text>
+  <text x="42" y="262" fill="#28243d" font-family="Arial, Helvetica, sans-serif" font-size="20">I value clear problem formulation, thoughtful method selection, and communicating what an analysis can—and</text>
+  <text x="42" y="297" fill="#28243d" font-family="Arial, Helvetica, sans-serif" font-size="20">cannot—tell us.</text>
+</svg>
