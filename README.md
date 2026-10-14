@@ -16,11 +16,9 @@
 
 ## 👋 About me
 
-<div align="center">
+I’m an **Industrial Engineering graduate** interested in using data and analytical methods to support better decisions. My work and learning focus on **data analytics, machine learning, mathematical optimization, and simulation**—from exploring patterns in datasets to modeling real-world systems and comparing possible solutions.
 
-<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/about-me-overlay.svg?v=2" alt="About Mobina: Industrial Engineering graduate interested in data analytics, machine learning, optimization, simulation, explainable AI, healthcare, and medical imaging." width="100%">
-
-</div>
+I’m particularly interested in **explainable AI** and the use of deep learning in **healthcare and medical imaging**. I value clear problem formulation, thoughtful method selection, and communicating what an analysis can—and cannot—tell us.
 
 ---
 
@@ -64,12 +62,25 @@ A curated selection of projects across AI, decision science, healthcare, and bus
 
 ## 🔎 Areas I’m exploring
 
+<table>
+<tr>
+<td width="68%" valign="top">
+
 - **Data analytics & predictive modeling** — turning data into interpretable findings.
 - **Machine learning** — comparing approaches for classification, regression, and pattern discovery.
 - **Explainable AI** — understanding model behavior and making results easier to interpret.
 - **Healthcare AI & medical imaging** — exploring deep learning and transfer learning applications.
 - **Optimization & decision support** — modeling constraints and evaluating alternatives for resource allocation.
 - **Simulation & network science** — studying system behavior, workflows, relationships, and communities.
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/MobinaHaghshenas/MobinaHaghshenas/main/assets/web-471952966.webp" alt="Data analytics and technology illustration" width="220">
+
+</td>
+</tr>
+</table>
 
 ---
 
