@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Mobina Haghshenas — Data, AI and Optimization</title>
+  <desc id="desc">A polished animated midnight-blue banner with teal orbital paths, data nodes and subtle moving signal lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071321"/><stop offset=".56" stop-color="#10283b"/><stop offset="1" stop-color="#071b2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5cf0d0"/><stop offset=".55" stop-color="#29cbb5"/><stop offset="1" stop-color="#7be7ff"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#21d6c2" stop-opacity=".22"/><stop offset="1" stop-color="#21d6c2" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9dece0" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="clip"><rect width="1200" height="330" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+    <ellipse cx="940" cy="160" rx="350" ry="250" fill="url(#glow)"/>
+    <path d="M0 280 C210 240 310 325 520 270 S850 200 1200 245" fill="none" stroke="#2ee5c5" stroke-opacity=".12" stroke-width="1.5"/>
+    <path d="M0 295 C250 250 360 340 580 285 S900 225 1200 265" fill="none" stroke="#76e9ff" stroke-opacity=".1" stroke-width="1"/>
+    <g fill="none" stroke="url(#accent)" stroke-width="1.3" stroke-opacity=".5">
+      <ellipse cx="945" cy="160" rx="205" ry="90" transform="rotate(-28 945 160)"/>
+      <ellipse cx="945" cy="160" rx="205" ry="90" transform="rotate(28 945 160)"/>
+      <ellipse cx="945" cy="160" rx="150" ry="118" transform="rotate(78 945 160)" stroke-opacity=".28"/>
+    </g>
+    <g stroke="#65e9d1" stroke-opacity=".4" stroke-width="1">
+      <path d="M790 91L858 125L927 67L1011 111L1091 77L1140 135"/>
+      <path d="M811 220L886 181L954 245L1032 194L1115 224"/>
+      <path d="M858 125L886 181L1011 111L1032 194L954 245"/>
+      <path d="M927 67L954 245M1091 77L1115 224"/>
+    </g>
+    <g fill="#6cf5d8">
+      <circle cx="790" cy="91" r="3"/><circle cx="858" cy="125" r="4"/><circle cx="927" cy="67" r="3"/>
+      <circle cx="1011" cy="111" r="4"/><circle cx="1091" cy="77" r="3"/><circle cx="1140" cy="135" r="3"/>
+      <circle cx="811" cy="220" r="3"/><circle cx="886" cy="181" r="4"/><circle cx="954" cy="245" r="3"/>
+      <circle cx="1032" cy="194" r="4"/><circle cx="1115" cy="224" r="3"/>
+    </g>
+    <circle cx="1011" cy="111" r="13" fill="#45e5c7" opacity=".22" filter="url(#soft)"/>
+    <circle cx="1011" cy="111" r="5" fill="#a5fff0">
+      <animate attributeName="r" values="4;7;4" dur="3.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;.55;1" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="886" cy="181" r="4" fill="#b3f7ff"><animate attributeName="r" values="3;5;3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <path d="M760 161H1155" stroke="#70f2dc" stroke-opacity=".25" stroke-width="1" stroke-dasharray="3 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <g font-family="Inter,Segoe UI,Arial,sans-serif">
+      <text x="76" y="80" font-size="12" letter-spacing="4" fill="#75e7d5">INDUSTRIAL ENGINEERING  /  DATA SCIENCE</text>
+      <path d="M76 101H148" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+      <text x="72" y="158" font-size="43" font-weight="700" letter-spacing="1.3" fill="#f1fbff">MOBINA</text>
+      <text x="72" y="208" font-size="43" font-weight="700" letter-spacing="1.3" fill="#f1fbff">HAGHSHENAS<tspan fill="#54e5cc">.</tspan></text>
+      <text x="76" y="247" font-size="16" fill="#b8d3df">Data-driven thinking. Intelligent systems. Better decisions.</text>
+      <g transform="translate(76 279)" font-size="11" letter-spacing="1.7" fill="#73e6d5">
+        <text x="0" y="0">AI &amp; HEALTHCARE</text><circle cx="142" cy="-4" r="2" fill="#5be8d0"/>
+        <text x="158" y="0">OPTIMIZATION</text><circle cx="277" cy="-4" r="2" fill="#5be8d0"/>
+        <text x="293" y="0">ANALYTICS</text>
+      </g>
+    </g>
+    <path d="M30 20H60M30 20V50M1170 280H1140M1170 280V310" stroke="#58e6ce" stroke-opacity=".65" stroke-width="1.5" fill="none"/>
+    <rect x="1" y="1" width="1198" height="328" rx="18" fill="none" stroke="#67e8d4" stroke-opacity=".28"/>
+  </g>
+</svg>
