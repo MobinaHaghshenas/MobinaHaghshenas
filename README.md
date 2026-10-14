@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I’m an **Industrial Engineering** interested in using data and analytical methods to support better decisions. My work and learning focus on **data analytics, machine learning, mathematical optimization, and simulation**—from exploring patterns in datasets to modeling real-world systems and comparing possible solutions.
+I’m an **Industrial Engineer** interested in using data and analytical methods to support better decisions. My work and learning focus on **data analytics, machine learning, mathematical optimization, and simulation**—from exploring patterns in datasets to modeling real-world systems and comparing possible solutions.
 
 I’m particularly interested in **explainable AI** and the use of deep learning in **healthcare and medical imaging**. I value clear problem formulation, thoughtful method selection, and communicating what an analysis can—and cannot—tell us.
 
